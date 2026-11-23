@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/data/
+/_site/
+*.pem
+!config/public_key.pem

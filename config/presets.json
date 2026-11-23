@@ -1,0 +1,42 @@
+[
+ {
+  "id": "drinov",
+  "name": "Dřínov",
+  "popis": "Dřínov a obce, se kterými sousedí katastrem (Hostín u Vojkovic, Vojkovice, Zlosyň, Újezdec, Úžice), plus témata D8, D0, VRT, RS 1–5, ZÚR a přeložka ze všech zdrojů.",
+  "filter": {
+   "sources": null,
+   "obce": [
+    534773,
+    531928,
+    535290,
+    535389,
+    599492,
+    535257
+   ],
+   "keywords": [
+    "D8",
+    "D0",
+    "VRT",
+    "RS 1",
+    "RS 2",
+    "RS 3",
+    "RS 4",
+    "RS 5",
+    "ZÚR",
+    "přeložka"
+   ],
+   "mode": "or"
+  }
+ },
+ {
+  "id": "vse",
+  "name": "Všechno",
+  "popis": "Všechny záznamy ze všech sledovaných zdrojů bez filtru.",
+  "filter": {
+   "sources": null,
+   "obce": [],
+   "keywords": [],
+   "mode": "or"
+  }
+ }
+]

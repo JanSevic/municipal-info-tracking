@@ -1,0 +1,8640 @@
+[
+{
+"kod": 529303,
+"nazev": "Benešov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532568,
+"nazev": "Bernartice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532380,
+"nazev": "Blažejovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532096,
+"nazev": "Borovnice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532924,
+"nazev": "Bukovany",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529451,
+"nazev": "Bystřice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530743,
+"nazev": "Bílkovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532878,
+"nazev": "Chleby",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529770,
+"nazev": "Chlum",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532045,
+"nazev": "Chlístov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529788,
+"nazev": "Chmelná",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529796,
+"nazev": "Chocerady",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532606,
+"nazev": "Choratice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529818,
+"nazev": "Chotýšany",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532037,
+"nazev": "Chrášťany",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532886,
+"nazev": "Chářovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532690,
+"nazev": "Ctiboř",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529621,
+"nazev": "Divišov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529648,
+"nazev": "Dolní Kralovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532151,
+"nazev": "Drahňovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532843,
+"nazev": "Dunice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532746,
+"nazev": "Děkanovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529702,
+"nazev": "Heřmaničky",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 532932,
+"nazev": "Hradiště",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529737,
+"nazev": "Hulice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529745,
+"nazev": "Hvězdonice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529842,
+"nazev": "Jankov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 529851,
+"nazev": "Javorník",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532134,
+"nazev": "Ješetice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 531031,
+"nazev": "Kamberk",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529907,
+"nazev": "Keblov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 533084,
+"nazev": "Kladruby",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529931,
+"nazev": "Kondrac",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529940,
+"nazev": "Kozmice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529958,
+"nazev": "Krhanice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529974,
+"nazev": "Krňany",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530026,
+"nazev": "Kuňovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529991,
+"nazev": "Křečovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530000,
+"nazev": "Křivsoudov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530051,
+"nazev": "Lešany",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530069,
+"nazev": "Libež",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532258,
+"nazev": "Litichovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530093,
+"nazev": "Loket",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530107,
+"nazev": "Louňovice pod Blaníkem",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532193,
+"nazev": "Lštění",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530115,
+"nazev": "Maršovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530158,
+"nazev": "Mezno",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 530166,
+"nazev": "Miličín",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 530174,
+"nazev": "Miřetice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530191,
+"nazev": "Mnichovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530204,
+"nazev": "Mrač",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530212,
+"nazev": "Načeradec",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530263,
+"nazev": "Nespeky",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530298,
+"nazev": "Netvořice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530301,
+"nazev": "Neustupov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 530310,
+"nazev": "Neveklov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530344,
+"nazev": "Olbramovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 599395,
+"nazev": "Ostrov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530352,
+"nazev": "Ostředek",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 533076,
+"nazev": "Pavlovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530409,
+"nazev": "Petroupim",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532649,
+"nazev": "Popovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530450,
+"nazev": "Postupice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530441,
+"nazev": "Poříčí nad Sázavou",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530476,
+"nazev": "Pravonín",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530514,
+"nazev": "Psáře",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 538680,
+"nazev": "Pyšely",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530492,
+"nazev": "Přestavlky u Čerčan",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530522,
+"nazev": "Rabyně",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530531,
+"nazev": "Radošovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530549,
+"nazev": "Rataje",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532550,
+"nazev": "Ratměřice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 532231,
+"nazev": "Slověnice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530611,
+"nazev": "Smilkov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 532436,
+"nazev": "Snět",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530638,
+"nazev": "Soběhrdy",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 599387,
+"nazev": "Soutice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 599379,
+"nazev": "Stranný",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 599361,
+"nazev": "Strojetice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530689,
+"nazev": "Struhařov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530719,
+"nazev": "Studený",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530701,
+"nazev": "Střezimíř",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 534382,
+"nazev": "Sázava",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530751,
+"nazev": "Tehov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530760,
+"nazev": "Teplýšovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530778,
+"nazev": "Tichonice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532592,
+"nazev": "Tisem",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532541,
+"nazev": "Tomice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530816,
+"nazev": "Trhový Štěpánov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530841,
+"nazev": "Týnec nad Sázavou",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532304,
+"nazev": "Třebešice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530867,
+"nazev": "Veliš",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530883,
+"nazev": "Vlašim",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532614,
+"nazev": "Vodslivy",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530891,
+"nazev": "Vojkov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 530905,
+"nazev": "Votice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 530913,
+"nazev": "Vracovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 530921,
+"nazev": "Vranov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 530948,
+"nazev": "Vrchotovy Janovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 513482,
+"nazev": "Vysoký Újezd",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532061,
+"nazev": "Václavice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532266,
+"nazev": "Všechlapy",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 571415,
+"nazev": "Xaverov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 531022,
+"nazev": "Zdislavice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 531049,
+"nazev": "Zvěstov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 529478,
+"nazev": "Čakov",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529486,
+"nazev": "Čechtice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 529532,
+"nazev": "Červený Újezd",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Votice"
+},
+{
+"kod": 529516,
+"nazev": "Čerčany",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529541,
+"nazev": "Český Šternberk",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 529567,
+"nazev": "Čtyřkoly",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 538710,
+"nazev": "Řehenice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Benešov"
+},
+{
+"kod": 532941,
+"nazev": "Řimovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 532509,
+"nazev": "Šetějovice",
+"okres": "Benešov",
+"kraj": "Středočeský",
+"orp": "Vlašim"
+},
+{
+"kod": 534421,
+"nazev": "Bavoryně",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531057,
+"nazev": "Beroun",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531081,
+"nazev": "Broumy",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531103,
+"nazev": "Bubovice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534145,
+"nazev": "Bykoš",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531120,
+"nazev": "Bzová",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531073,
+"nazev": "Běštín",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531090,
+"nazev": "Březová",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531138,
+"nazev": "Cerhovice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531251,
+"nazev": "Chaloupky",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 534455,
+"nazev": "Chlustina",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 534447,
+"nazev": "Chodouň",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533670,
+"nazev": "Chrustenice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531294,
+"nazev": "Chyňava",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531154,
+"nazev": "Drozdov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531162,
+"nazev": "Felbabka",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531171,
+"nazev": "Hlásná Třebaň",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531201,
+"nazev": "Hostomice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531189,
+"nazev": "Hořovice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531227,
+"nazev": "Hudlice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531235,
+"nazev": "Hvozdec",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531243,
+"nazev": "Hýskov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531219,
+"nazev": "Hředle",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531308,
+"nazev": "Jivina",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531316,
+"nazev": "Karlštejn",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531324,
+"nazev": "Komárov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531332,
+"nazev": "Koněprusy",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533793,
+"nazev": "Korno",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534072,
+"nazev": "Kotopeky",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 533203,
+"nazev": "Králův Dvůr",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531375,
+"nazev": "Kublov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533335,
+"nazev": "Lhotka",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531448,
+"nazev": "Libomyšl",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531456,
+"nazev": "Liteň",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531472,
+"nazev": "Lochovice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531464,
+"nazev": "Loděnice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534404,
+"nazev": "Lužce",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533939,
+"nazev": "Lážovice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 533319,
+"nazev": "Malá Víska",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531537,
+"nazev": "Mezouň",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531545,
+"nazev": "Mořina",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533912,
+"nazev": "Mořinka",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534218,
+"nazev": "Málkov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531529,
+"nazev": "Měňany",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533602,
+"nazev": "Nenačovice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534269,
+"nazev": "Nesvačily",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531588,
+"nazev": "Neumětely",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531596,
+"nazev": "Nižbor",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531600,
+"nazev": "Nový Jáchymov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531626,
+"nazev": "Olešná",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531634,
+"nazev": "Osek",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531642,
+"nazev": "Osov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 534111,
+"nazev": "Otmíče",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531669,
+"nazev": "Otročiněves",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534285,
+"nazev": "Podbrdy",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531685,
+"nazev": "Podluhy",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531693,
+"nazev": "Praskolesy",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531715,
+"nazev": "Rpety",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531740,
+"nazev": "Skuhrov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533963,
+"nazev": "Skřipel",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531758,
+"nazev": "Srbsko",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531766,
+"nazev": "Stašov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531782,
+"nazev": "Suchomasty",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531791,
+"nazev": "Svatá",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531804,
+"nazev": "Svatý Jan pod Skalou",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531812,
+"nazev": "Svinaře",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531839,
+"nazev": "Tetín",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531847,
+"nazev": "Tlustice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531855,
+"nazev": "Tmaň",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534463,
+"nazev": "Točník",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531880,
+"nazev": "Trubská",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 533106,
+"nazev": "Trubín",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531910,
+"nazev": "Velký Chlumec",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 534234,
+"nazev": "Vinařice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 534048,
+"nazev": "Vižina",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531944,
+"nazev": "Vráž",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531961,
+"nazev": "Vysoký Újezd",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531952,
+"nazev": "Všeradice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531979,
+"nazev": "Zadní Třebaň",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 531995,
+"nazev": "Zaječov",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 532011,
+"nazev": "Zdice",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 532002,
+"nazev": "Záluží",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 531901,
+"nazev": "Újezd",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 532029,
+"nazev": "Žebrák",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Hořovice"
+},
+{
+"kod": 599417,
+"nazev": "Železná",
+"okres": "Beroun",
+"kraj": "Středočeský",
+"orp": "Beroun"
+},
+{
+"kod": 532088,
+"nazev": "Beřovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532100,
+"nazev": "Blevice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532118,
+"nazev": "Brandýsek",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532142,
+"nazev": "Bratronice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532126,
+"nazev": "Braškov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532169,
+"nazev": "Buštěhrad",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 535125,
+"nazev": "Bílichov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 535010,
+"nazev": "Běleč",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532070,
+"nazev": "Běloky",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532398,
+"nazev": "Chržín",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532185,
+"nazev": "Cvrčovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532223,
+"nazev": "Doksy",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 513130,
+"nazev": "Dolany",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 512991,
+"nazev": "Drnek",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532274,
+"nazev": "Družec",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532282,
+"nazev": "Dřetovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532291,
+"nazev": "Dřínov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 513075,
+"nazev": "Hobšovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532312,
+"nazev": "Horní Bezděkov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532339,
+"nazev": "Hospozín",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532347,
+"nazev": "Hostouň",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532321,
+"nazev": "Hořešovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 535150,
+"nazev": "Hořešovičky",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532355,
+"nazev": "Hradečno",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532363,
+"nazev": "Hrdlív",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532371,
+"nazev": "Hřebeč",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532401,
+"nazev": "Jarpice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532410,
+"nazev": "Jedomělice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532428,
+"nazev": "Jemníky",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532452,
+"nazev": "Kamenné Žehrovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 513032,
+"nazev": "Kamenný Most",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532444,
+"nazev": "Kačice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532053,
+"nazev": "Kladno",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532461,
+"nazev": "Klobuky",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532479,
+"nazev": "Kmetiněves",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532487,
+"nazev": "Knovíz",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532495,
+"nazev": "Koleč",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 535109,
+"nazev": "Královice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 571512,
+"nazev": "Kutrovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532517,
+"nazev": "Kvílice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532525,
+"nazev": "Kyšice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532533,
+"nazev": "Ledce",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 513041,
+"nazev": "Lhota",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 564150,
+"nazev": "Libochovičky",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 571601,
+"nazev": "Libovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532576,
+"nazev": "Libušín",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532584,
+"nazev": "Lidice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 535095,
+"nazev": "Loucká",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 541991,
+"nazev": "Lány",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 571555,
+"nazev": "Líský",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532622,
+"nazev": "Makotřasy",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532631,
+"nazev": "Malé Kyšice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 513113,
+"nazev": "Malé Přítočno",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532657,
+"nazev": "Malíkovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 571521,
+"nazev": "Neprobylice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532665,
+"nazev": "Neuměřice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532681,
+"nazev": "Otvovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532711,
+"nazev": "Pavlov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532720,
+"nazev": "Pchery",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 564125,
+"nazev": "Plchov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532738,
+"nazev": "Pletený Újezd",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532754,
+"nazev": "Podlešín",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532762,
+"nazev": "Pozdeň",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 564087,
+"nazev": "Poštovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 564192,
+"nazev": "Páleč",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532771,
+"nazev": "Přelíc",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532801,
+"nazev": "Sazená",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532819,
+"nazev": "Slaný",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532827,
+"nazev": "Slatina",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532835,
+"nazev": "Smečno",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532851,
+"nazev": "Stehelčeves",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532860,
+"nazev": "Stochov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 599441,
+"nazev": "Stradonice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 551457,
+"nazev": "Studeněves",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532908,
+"nazev": "Svinařov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 599433,
+"nazev": "Svárov",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532983,
+"nazev": "Tuchlovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532177,
+"nazev": "Tuřany",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532959,
+"nazev": "Třebichovice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532975,
+"nazev": "Třebusice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532967,
+"nazev": "Třebíz",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533009,
+"nazev": "Uhy",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533017,
+"nazev": "Unhošť",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 533025,
+"nazev": "Velká Dobrá",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 533033,
+"nazev": "Velké Přítočno",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 533041,
+"nazev": "Velvary",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533050,
+"nazev": "Vinařice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 533068,
+"nazev": "Vraný",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 571431,
+"nazev": "Vrbičany",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 571423,
+"nazev": "Zichovec",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533114,
+"nazev": "Zlonice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533122,
+"nazev": "Zvoleněves",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 571598,
+"nazev": "Zájezd",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 533092,
+"nazev": "Zákolany",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 532207,
+"nazev": "Černuc",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532797,
+"nazev": "Řisuty",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 532916,
+"nazev": "Šlapanice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 599425,
+"nazev": "Želenice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533149,
+"nazev": "Žilina",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Kladno"
+},
+{
+"kod": 533157,
+"nazev": "Žižice",
+"okres": "Kladno",
+"kraj": "Středočeský",
+"orp": "Slaný"
+},
+{
+"kod": 533173,
+"nazev": "Barchovice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533181,
+"nazev": "Bečváry",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533238,
+"nazev": "Býchory",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533190,
+"nazev": "Bělušice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533211,
+"nazev": "Břežany I",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533220,
+"nazev": "Břežany II",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533246,
+"nazev": "Cerhenice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533343,
+"nazev": "Chotutice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 534994,
+"nazev": "Choťovice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533351,
+"nazev": "Chrášťany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 599476,
+"nazev": "Církvice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533289,
+"nazev": "Dobřichov",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533297,
+"nazev": "Dolní Chvatliny",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513181,
+"nazev": "Dománovice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533301,
+"nazev": "Doubravčice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 564681,
+"nazev": "Drahobudice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 599450,
+"nazev": "Grunta",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533327,
+"nazev": "Horní Kruty",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 564800,
+"nazev": "Hradešín",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533360,
+"nazev": "Jestřabí Lhota",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513415,
+"nazev": "Kbel",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533386,
+"nazev": "Klučov",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 571687,
+"nazev": "Klášterní Skalice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533165,
+"nazev": "Kolín",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533394,
+"nazev": "Konárovice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533424,
+"nazev": "Kouřim",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533408,
+"nazev": "Kořenice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533441,
+"nazev": "Krakovany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533459,
+"nazev": "Krupá",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 599484,
+"nazev": "Krychnov",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533467,
+"nazev": "Křečhoř",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 571717,
+"nazev": "Kšely",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533475,
+"nazev": "Libenice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533483,
+"nazev": "Libodřice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513270,
+"nazev": "Lipec",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533505,
+"nazev": "Lošany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533513,
+"nazev": "Malotice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 564702,
+"nazev": "Masojedy",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 513288,
+"nazev": "Mrzky",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533521,
+"nazev": "Nebovidy",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533530,
+"nazev": "Nová Ves I",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 571636,
+"nazev": "Němčice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533556,
+"nazev": "Ohaře",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533572,
+"nazev": "Ovčáry",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513423,
+"nazev": "Pašinka",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 537641,
+"nazev": "Pečky",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533581,
+"nazev": "Plaňany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533599,
+"nazev": "Polepy",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513237,
+"nazev": "Polní Chrčice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513148,
+"nazev": "Polní Voděrady",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 537705,
+"nazev": "Poříčany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 537675,
+"nazev": "Pňov-Předhradí",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513369,
+"nazev": "Přehvozdí",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 513393,
+"nazev": "Přistoupim",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533611,
+"nazev": "Přišimasy",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533629,
+"nazev": "Radim",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533637,
+"nazev": "Radovesnice I",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533645,
+"nazev": "Radovesnice II",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533653,
+"nazev": "Ratboř",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 537748,
+"nazev": "Ratenice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533661,
+"nazev": "Rostoklaty",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533696,
+"nazev": "Skvrňov",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533700,
+"nazev": "Starý Kolín",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533726,
+"nazev": "Svojšice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 537888,
+"nazev": "Tatce",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533734,
+"nazev": "Tismice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533742,
+"nazev": "Toušice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533777,
+"nazev": "Tuchoraz",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533785,
+"nazev": "Tuklaty",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533807,
+"nazev": "Týnec nad Labem",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533751,
+"nazev": "Třebovle",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533769,
+"nazev": "Tři Dvory",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533815,
+"nazev": "Uhlířská Lhota",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533823,
+"nazev": "Veletov",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533831,
+"nazev": "Velim",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533840,
+"nazev": "Velký Osek",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533858,
+"nazev": "Veltruby",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533866,
+"nazev": "Vitice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533882,
+"nazev": "Volárna",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533891,
+"nazev": "Vrbčany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 564826,
+"nazev": "Vrátkov",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 513202,
+"nazev": "Zalešany",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533921,
+"nazev": "Zásmuky",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 599301,
+"nazev": "Černíky",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 533262,
+"nazev": "Červené Pečky",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533271,
+"nazev": "Český Brod",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Český Brod"
+},
+{
+"kod": 513261,
+"nazev": "Žabonosy",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 513164,
+"nazev": "Ždánice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 538035,
+"nazev": "Žehuň",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 533947,
+"nazev": "Žiželice",
+"okres": "Kolín",
+"kraj": "Středočeský",
+"orp": "Kolín"
+},
+{
+"kod": 531367,
+"nazev": "Adamov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531111,
+"nazev": "Bernardov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 530964,
+"nazev": "Bludov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 533980,
+"nazev": "Bohdaneč",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 530832,
+"nazev": "Brambory",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531286,
+"nazev": "Bratčice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 533971,
+"nazev": "Bílé Podolí",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534081,
+"nazev": "Chabeřice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534099,
+"nazev": "Chlístovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534102,
+"nazev": "Chotusice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 533998,
+"nazev": "Církvice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 529559,
+"nazev": "Dobrovítov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531260,
+"nazev": "Dolní Pohleď",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531341,
+"nazev": "Drobovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531197,
+"nazev": "Hlízov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531430,
+"nazev": "Horka I",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534056,
+"nazev": "Horka II",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531359,
+"nazev": "Horky",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531481,
+"nazev": "Horušice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534064,
+"nazev": "Hostovlice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531413,
+"nazev": "Hraběšín",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534137,
+"nazev": "Kluky",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531405,
+"nazev": "Kobylnice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 551465,
+"nazev": "Košice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534153,
+"nazev": "Krchleby",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 533955,
+"nazev": "Kutná Hora",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534129,
+"nazev": "Kácov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534161,
+"nazev": "Křesetice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534170,
+"nazev": "Ledečko",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534188,
+"nazev": "Malešov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534200,
+"nazev": "Miskovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 530999,
+"nazev": "Močovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534226,
+"nazev": "Nepoměřice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534242,
+"nazev": "Nové Dvory",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534251,
+"nazev": "Okřesaneč",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534277,
+"nazev": "Onomyšl",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 530956,
+"nazev": "Opatovice I",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531278,
+"nazev": "Paběnice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534307,
+"nazev": "Pertoltice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534315,
+"nazev": "Petrovice I",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534323,
+"nazev": "Petrovice II",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 528196,
+"nazev": "Podveky",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534331,
+"nazev": "Potěhy",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534358,
+"nazev": "Rataje nad Sázavou",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534340,
+"nazev": "Rašovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 526622,
+"nazev": "Rohozec",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534374,
+"nazev": "Samopše",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531383,
+"nazev": "Schořov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 530859,
+"nazev": "Semtěš",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534391,
+"nazev": "Slavošov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534293,
+"nazev": "Soběšín",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531065,
+"nazev": "Souňov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 530875,
+"nazev": "Starkoč",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534412,
+"nazev": "Staňkovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534439,
+"nazev": "Suchdol",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531391,
+"nazev": "Sudějov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534196,
+"nazev": "Svatý Mikuláš",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534480,
+"nazev": "Tupadly",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 530981,
+"nazev": "Třebešice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 571741,
+"nazev": "Třebonín",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 530972,
+"nazev": "Třebětín",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534498,
+"nazev": "Uhlířské Janovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534528,
+"nazev": "Vavřinec",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534536,
+"nazev": "Vidice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534544,
+"nazev": "Vinaře",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534561,
+"nazev": "Vlastějovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534552,
+"nazev": "Vlačice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534579,
+"nazev": "Vlkaneč",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 531014,
+"nazev": "Vodranty",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534587,
+"nazev": "Vrdy",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534609,
+"nazev": "Zbizuby",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534617,
+"nazev": "Zbraslavice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534625,
+"nazev": "Zbýšov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534633,
+"nazev": "Zruč nad Sázavou",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534595,
+"nazev": "Záboří nad Labem",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534501,
+"nazev": "Úmonín",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534510,
+"nazev": "Úžice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 529524,
+"nazev": "Čejkovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534013,
+"nazev": "Černíny",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534021,
+"nazev": "Červené Janovice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534030,
+"nazev": "Čestín",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534005,
+"nazev": "Čáslav",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534366,
+"nazev": "Řendějov",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 531421,
+"nazev": "Šebestěnice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 530930,
+"nazev": "Štipoklasy",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Kutná Hora"
+},
+{
+"kod": 534650,
+"nazev": "Žehušice",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534668,
+"nazev": "Žleby",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 534641,
+"nazev": "Žáky",
+"okres": "Kutná Hora",
+"kraj": "Středočeský",
+"orp": "Čáslav"
+},
+{
+"kod": 535427,
+"nazev": "Bakov nad Jizerou",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535451,
+"nazev": "Benátky nad Jizerou",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535478,
+"nazev": "Bezno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535508,
+"nazev": "Boreč",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535516,
+"nazev": "Boseň",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 570788,
+"nazev": "Bradlec",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571946,
+"nazev": "Branžež",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 535559,
+"nazev": "Brodce",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535605,
+"nazev": "Bukovno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565750,
+"nazev": "Bílá Hlína",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 535486,
+"nazev": "Bítouchov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535443,
+"nazev": "Bělá pod Bezdězem",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535567,
+"nazev": "Březina",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 535583,
+"nazev": "Březno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 599514,
+"nazev": "Březovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565784,
+"nazev": "Charvatce",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535923,
+"nazev": "Chocnějovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 535931,
+"nazev": "Chotětov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571849,
+"nazev": "Chudíř",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570991,
+"nazev": "Ctiměřice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570818,
+"nazev": "Dalovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535656,
+"nazev": "Dlouhá Lhota",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535672,
+"nazev": "Dobrovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571989,
+"nazev": "Dobšín",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535702,
+"nazev": "Dolní Bousov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535711,
+"nazev": "Dolní Krupá",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 535729,
+"nazev": "Dolní Slivno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570940,
+"nazev": "Dolní Stakory",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535745,
+"nazev": "Domousnice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571067,
+"nazev": "Doubravička",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535818,
+"nazev": "Horky nad Jizerou",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535834,
+"nazev": "Horní Bukovina",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 599531,
+"nazev": "Horní Slivno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535869,
+"nazev": "Hrdlořezy",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565733,
+"nazev": "Hrušov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 599522,
+"nazev": "Husí Lhota",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535966,
+"nazev": "Jabkenice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535974,
+"nazev": "Jivina",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 566039,
+"nazev": "Jizerní Vtelno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 529613,
+"nazev": "Josefův Důl",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536008,
+"nazev": "Katusice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571075,
+"nazev": "Kluky",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536024,
+"nazev": "Klášter Hradiště nad Jizerou",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 536041,
+"nazev": "Kněžmost",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 571172,
+"nazev": "Kobylnice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536067,
+"nazev": "Kochánky",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570974,
+"nazev": "Kolomuty",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 599557,
+"nazev": "Koryta",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 570826,
+"nazev": "Kosmonosy",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536121,
+"nazev": "Kosořice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 572012,
+"nazev": "Kovanec",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571971,
+"nazev": "Kováň",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 566047,
+"nazev": "Košátky",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536172,
+"nazev": "Krnsko",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536181,
+"nazev": "Kropáčova Vrutice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536164,
+"nazev": "Krásná Ves",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536202,
+"nazev": "Ledce",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536211,
+"nazev": "Lhotky",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565563,
+"nazev": "Lipník",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570770,
+"nazev": "Loukov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 536261,
+"nazev": "Loukovec",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 536270,
+"nazev": "Luštěnice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565644,
+"nazev": "Mečeříž",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535419,
+"nazev": "Mladá Boleslav",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536326,
+"nazev": "Mnichovo Hradiště",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 565822,
+"nazev": "Mohelnice nad Jizerou",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 571865,
+"nazev": "Mukařov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 571156,
+"nazev": "Nemyslovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536351,
+"nazev": "Nepřevázka",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571997,
+"nazev": "Neveklovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 571121,
+"nazev": "Niměřice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536377,
+"nazev": "Nová Telib",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571806,
+"nazev": "Nová Ves u Bakova",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536334,
+"nazev": "Němčice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570893,
+"nazev": "Obrubce",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536407,
+"nazev": "Obruby",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536431,
+"nazev": "Petkovy",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536458,
+"nazev": "Plazy",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565580,
+"nazev": "Plužná",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570753,
+"nazev": "Prodašice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571938,
+"nazev": "Ptýrov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 536440,
+"nazev": "Písková Lhota",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 598241,
+"nazev": "Pětikozly",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571032,
+"nazev": "Pěčice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536491,
+"nazev": "Předměřice nad Jizerou",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570923,
+"nazev": "Přepeře",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565652,
+"nazev": "Rabakov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565636,
+"nazev": "Rohatsko",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571148,
+"nazev": "Rokytovec",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 529605,
+"nazev": "Rokytá",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 529591,
+"nazev": "Sedlec",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536610,
+"nazev": "Semčice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 599573,
+"nazev": "Sezemice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 536636,
+"nazev": "Skalsko",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 557030,
+"nazev": "Skorkov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536652,
+"nazev": "Smilovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536661,
+"nazev": "Sojovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565539,
+"nazev": "Sovínky",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536709,
+"nazev": "Strašnov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536717,
+"nazev": "Strenice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571881,
+"nazev": "Strážiště",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 565920,
+"nazev": "Sudoměř",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536768,
+"nazev": "Sukorady",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570982,
+"nazev": "Tuřice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570761,
+"nazev": "Ujkovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536857,
+"nazev": "Velké Všelisy",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565725,
+"nazev": "Veselice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565628,
+"nazev": "Vinařice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 570842,
+"nazev": "Vinec",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565571,
+"nazev": "Vlkava",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 572021,
+"nazev": "Vrátno",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536938,
+"nazev": "Všejany",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 571814,
+"nazev": "Zdětín",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535621,
+"nazev": "Čachovice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 535630,
+"nazev": "Čistá",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536580,
+"nazev": "Řepov",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 565661,
+"nazev": "Řitonice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536989,
+"nazev": "Žerčice",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536997,
+"nazev": "Židněves",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mladá Boleslav"
+},
+{
+"kod": 536971,
+"nazev": "Žďár",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský",
+"orp": "Mnichovo Hradiště"
+},
+{
+"kod": 534722,
+"nazev": "Byšice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534714,
+"nazev": "Býkev",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534820,
+"nazev": "Chlumín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 534838,
+"nazev": "Chorušice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534846,
+"nazev": "Chvatěruby",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 534731,
+"nazev": "Cítov",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531570,
+"nazev": "Dobřeň",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 539201,
+"nazev": "Dolany nad Vltavou",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 534765,
+"nazev": "Dolní Beřkovice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531987,
+"nazev": "Dolní Zimoř",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534773,
+"nazev": "Dřínov",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou",
+"sousede": [
+"Hostín u Vojkovic",
+"Vojkovice",
+"Zlosyň",
+"Újezdec",
+"Úžice"
+]
+},
+{
+"kod": 534790,
+"nazev": "Horní Počaply",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531499,
+"nazev": "Hostín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531928,
+"nazev": "Hostín u Vojkovic",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 534803,
+"nazev": "Hořín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531871,
+"nazev": "Jeviněves",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531774,
+"nazev": "Kadlín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531651,
+"nazev": "Kanina",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534897,
+"nazev": "Kly",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 538345,
+"nazev": "Kojetice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 534901,
+"nazev": "Kokořín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534935,
+"nazev": "Kostelec nad Labem",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 571792,
+"nazev": "Kozomín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 534951,
+"nazev": "Kralupy nad Vltavou",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 534978,
+"nazev": "Ledčice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 531898,
+"nazev": "Lhotka",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 571784,
+"nazev": "Libiš",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 531502,
+"nazev": "Liblice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535001,
+"nazev": "Liběchov",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531677,
+"nazev": "Lobeč",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535028,
+"nazev": "Lužec nad Vltavou",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535036,
+"nazev": "Malý Újezd",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 529575,
+"nazev": "Medonosy",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535044,
+"nazev": "Mělnické Vtelno",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 534676,
+"nazev": "Mělník",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535052,
+"nazev": "Mšeno",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535061,
+"nazev": "Nebužely",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531863,
+"nazev": "Nedomice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 535079,
+"nazev": "Nelahozeves",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535087,
+"nazev": "Neratovice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 531707,
+"nazev": "Nosálov",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535117,
+"nazev": "Nová Ves",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535133,
+"nazev": "Obříství",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 532673,
+"nazev": "Olovnice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535141,
+"nazev": "Ovčáry",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 538647,
+"nazev": "Postřižín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535192,
+"nazev": "Spomyšl",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 531731,
+"nazev": "Stránka",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535214,
+"nazev": "Střemy",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535222,
+"nazev": "Tišice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 531561,
+"nazev": "Tuhaň",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 529583,
+"nazev": "Tupadly",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535265,
+"nazev": "Velký Borek",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535273,
+"nazev": "Veltrusy",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 531936,
+"nazev": "Vidim",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535290,
+"nazev": "Vojkovice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535303,
+"nazev": "Vraňany",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535338,
+"nazev": "Vysoká",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535311,
+"nazev": "Všestudy",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535320,
+"nazev": "Všetaty",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 531511,
+"nazev": "Zlončice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535389,
+"nazev": "Zlosyň",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535354,
+"nazev": "Zálezlice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 599492,
+"nazev": "Újezdec",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 535257,
+"nazev": "Úžice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Kralupy nad Vltavou"
+},
+{
+"kod": 598291,
+"nazev": "Čakovičky",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Neratovice"
+},
+{
+"kod": 534749,
+"nazev": "Čečelice",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535168,
+"nazev": "Řepín",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 535397,
+"nazev": "Želízy",
+"okres": "Mělník",
+"kraj": "Středočeský",
+"orp": "Mělník"
+},
+{
+"kod": 537039,
+"nazev": "Bobnice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537055,
+"nazev": "Budiměřice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537021,
+"nazev": "Běrunice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537047,
+"nazev": "Bříství",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 599620,
+"nazev": "Chleby",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537225,
+"nazev": "Chotěšice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537217,
+"nazev": "Choťánky",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 534706,
+"nazev": "Chroustov",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537233,
+"nazev": "Chrást",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537098,
+"nazev": "Dlouhopolsko",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537101,
+"nazev": "Dobšice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537110,
+"nazev": "Dvory",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537128,
+"nazev": "Dymokury",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 534854,
+"nazev": "Hořany",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537152,
+"nazev": "Hořátev",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537179,
+"nazev": "Hradištko",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537161,
+"nazev": "Hradčany",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 599638,
+"nazev": "Hrubý Jeseník",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537268,
+"nazev": "Jizbice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 599581,
+"nazev": "Jiřice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537250,
+"nazev": "Jíkev",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537276,
+"nazev": "Kamenné Zboží",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537292,
+"nazev": "Kněžice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 551481,
+"nazev": "Kněžičky",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537306,
+"nazev": "Kolaje",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537314,
+"nazev": "Kostelní Lhota",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537331,
+"nazev": "Kostomlaty nad Labem",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 529630,
+"nazev": "Kostomlátky",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537357,
+"nazev": "Kounice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 534943,
+"nazev": "Kouty",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537373,
+"nazev": "Kovanice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537349,
+"nazev": "Košík",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537390,
+"nazev": "Krchleby",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537403,
+"nazev": "Křečkov",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537411,
+"nazev": "Křinec",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537438,
+"nazev": "Libice nad Cidlinou",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537446,
+"nazev": "Loučeň",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537454,
+"nazev": "Lysá nad Labem",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537462,
+"nazev": "Mcely",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537501,
+"nazev": "Milovice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537497,
+"nazev": "Milčice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537489,
+"nazev": "Městec Králové",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 534919,
+"nazev": "Netřebice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 599654,
+"nazev": "Nový Dvůr",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537004,
+"nazev": "Nymburk",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537551,
+"nazev": "Odřepsy",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537560,
+"nazev": "Okřínek",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537586,
+"nazev": "Opolany",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537578,
+"nazev": "Opočnice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 599662,
+"nazev": "Oseček",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537616,
+"nazev": "Oskořínek",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537624,
+"nazev": "Ostrá",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 599590,
+"nazev": "Podmoky",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537683,
+"nazev": "Poděbrady",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537632,
+"nazev": "Pátek",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537659,
+"nazev": "Písková Lhota",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537667,
+"nazev": "Písty",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537721,
+"nazev": "Přerov nad Labem",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537756,
+"nazev": "Rožďalovice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537764,
+"nazev": "Sadská",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 534757,
+"nazev": "Seletice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537781,
+"nazev": "Semice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537799,
+"nazev": "Senice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537802,
+"nazev": "Sloveč",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537811,
+"nazev": "Sokoleč",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537837,
+"nazev": "Stará Lysá",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 534889,
+"nazev": "Starý Vestec",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537853,
+"nazev": "Straky",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537861,
+"nazev": "Stratov",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537772,
+"nazev": "Sány",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537896,
+"nazev": "Třebestovice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 536083,
+"nazev": "Velenice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 534871,
+"nazev": "Velenka",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537942,
+"nazev": "Vestec",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537951,
+"nazev": "Vlkov pod Oškobrhem",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 599611,
+"nazev": "Vrbice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537977,
+"nazev": "Vrbová Lhota",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537993,
+"nazev": "Vykáň",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Lysá nad Labem"
+},
+{
+"kod": 537985,
+"nazev": "Všechlapy",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 599697,
+"nazev": "Zbožíčko",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 534862,
+"nazev": "Zvěřínek",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 534471,
+"nazev": "Záhornice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 537900,
+"nazev": "Úmyslovice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 599671,
+"nazev": "Čilec",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 537080,
+"nazev": "Činěves",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Poděbrady"
+},
+{
+"kod": 503410,
+"nazev": "Žitovlice",
+"okres": "Nymburk",
+"kraj": "Středočeský",
+"orp": "Nymburk"
+},
+{
+"kod": 538043,
+"nazev": "Babice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538051,
+"nazev": "Bašť",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 534684,
+"nazev": "Borek",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538086,
+"nazev": "Bořanovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538094,
+"nazev": "Brandýs nad Labem-Stará Boleslav",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538108,
+"nazev": "Brázdim",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 564869,
+"nazev": "Březí",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 565008,
+"nazev": "Dobročovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538167,
+"nazev": "Dobřejovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 564885,
+"nazev": "Doubek",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538191,
+"nazev": "Dřevčice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 534781,
+"nazev": "Dřísy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 564915,
+"nazev": "Herink",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 565989,
+"nazev": "Hlavenec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538221,
+"nazev": "Horoušany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538230,
+"nazev": "Hovorčovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538248,
+"nazev": "Hrusice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538256,
+"nazev": "Husinec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538264,
+"nazev": "Jenštejn",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 533378,
+"nazev": "Jevany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538272,
+"nazev": "Jirny",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538281,
+"nazev": "Kaliště",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538299,
+"nazev": "Kamenice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538311,
+"nazev": "Klecany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 513628,
+"nazev": "Klokočná",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538329,
+"nazev": "Klíčany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 564761,
+"nazev": "Konojedy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 531553,
+"nazev": "Konětopy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 533416,
+"nazev": "Kostelec nad Černými lesy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538370,
+"nazev": "Kostelec u Křížků",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 536130,
+"nazev": "Kostelní Hlavno",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 533432,
+"nazev": "Kozojedy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538426,
+"nazev": "Kunice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 564982,
+"nazev": "Květnice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 564974,
+"nazev": "Káraný",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 534960,
+"nazev": "Křenek",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 564991,
+"nazev": "Křenice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538418,
+"nazev": "Křížkový Újezdec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 534986,
+"nazev": "Lhota",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538451,
+"nazev": "Louňovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538914,
+"nazev": "Lázně Toušeň",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538442,
+"nazev": "Líbeznice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538485,
+"nazev": "Mirošovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538493,
+"nazev": "Mnichovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538507,
+"nazev": "Mochov",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 598267,
+"nazev": "Modletice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538515,
+"nazev": "Mratín",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538523,
+"nazev": "Mukařov",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538469,
+"nazev": "Máslovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538477,
+"nazev": "Měšice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538540,
+"nazev": "Nehvizdy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538558,
+"nazev": "Nová Ves",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538566,
+"nazev": "Nový Vestec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 564907,
+"nazev": "Nupaky",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 533548,
+"nazev": "Nučice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538574,
+"nazev": "Odolena Voda",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 533564,
+"nazev": "Oleška",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538582,
+"nazev": "Ondřejov",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 571679,
+"nazev": "Oplany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538604,
+"nazev": "Panenské Břežany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538612,
+"nazev": "Petříkov",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538621,
+"nazev": "Podolanka",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538639,
+"nazev": "Polerady",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 599221,
+"nazev": "Popovičky",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 564788,
+"nazev": "Prusice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 529656,
+"nazev": "Pětihosty",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538655,
+"nazev": "Předboj",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538671,
+"nazev": "Přezletice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538701,
+"nazev": "Radonice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538698,
+"nazev": "Radějovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 598283,
+"nazev": "Sedlec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538752,
+"nazev": "Senohraby",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538761,
+"nazev": "Sibřina",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538779,
+"nazev": "Sluhy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538787,
+"nazev": "Sluštice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538809,
+"nazev": "Strančice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538825,
+"nazev": "Struhařov",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 533718,
+"nazev": "Stříbrná Skalice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 571954,
+"nazev": "Sudovo Hlavno",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538833,
+"nazev": "Sulice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538850,
+"nazev": "Svojetice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 598305,
+"nazev": "Svémyslice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538841,
+"nazev": "Světice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538892,
+"nazev": "Tehov",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 599719,
+"nazev": "Tehovec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538965,
+"nazev": "Veleň",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538973,
+"nazev": "Veliká Ves",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538981,
+"nazev": "Velké Popovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 533874,
+"nazev": "Vlkančice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 539015,
+"nazev": "Vodochody",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 539040,
+"nazev": "Vyšehořovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 533904,
+"nazev": "Vyžlovka",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 564796,
+"nazev": "Výžerky",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538990,
+"nazev": "Větrušice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 539031,
+"nazev": "Všestary",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 539058,
+"nazev": "Zdiby",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 539066,
+"nazev": "Zeleneč",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 513644,
+"nazev": "Zlatá",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 539082,
+"nazev": "Zlonín",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 539091,
+"nazev": "Zvánovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 505781,
+"nazev": "Zápy",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 535362,
+"nazev": "Záryby",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538957,
+"nazev": "Úvaly",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538132,
+"nazev": "Čelákovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 533254,
+"nazev": "Černé Voděrady",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538141,
+"nazev": "Čestlice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538728,
+"nazev": "Říčany",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 538876,
+"nazev": "Šestajovice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 538884,
+"nazev": "Škvorec",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Brandýs nad Labem-Stará Boleslav"
+},
+{
+"kod": 571644,
+"nazev": "Štíhlice",
+"okres": "Praha-východ",
+"kraj": "Středočeský",
+"orp": "Říčany"
+},
+{
+"kod": 539104,
+"nazev": "Bojanovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571199,
+"nazev": "Bratřínov",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 540048,
+"nazev": "Buš",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 599735,
+"nazev": "Březová-Oleško",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539287,
+"nazev": "Choteč",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539295,
+"nazev": "Chrášťany",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 513431,
+"nazev": "Chýnice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539309,
+"nazev": "Chýně",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539163,
+"nazev": "Davle",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539171,
+"nazev": "Dobrovíz",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539198,
+"nazev": "Dobřichovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539180,
+"nazev": "Dobříč",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539210,
+"nazev": "Dolní Břežany",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 531146,
+"nazev": "Drahelčice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539228,
+"nazev": "Holubice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539236,
+"nazev": "Horoměřice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539244,
+"nazev": "Hostivice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539252,
+"nazev": "Hradištko",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539261,
+"nazev": "Hvozdnice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539317,
+"nazev": "Jeneč",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539325,
+"nazev": "Jesenice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539350,
+"nazev": "Jinočany",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539341,
+"nazev": "Jíloviště",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539333,
+"nazev": "Jílové u Prahy",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539368,
+"nazev": "Kamenný Přívoz",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 599727,
+"nazev": "Karlík",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571211,
+"nazev": "Klínec",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539384,
+"nazev": "Kněževes",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539392,
+"nazev": "Kosoř",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571261,
+"nazev": "Kytín",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539406,
+"nazev": "Lety",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539422,
+"nazev": "Libeř",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539414,
+"nazev": "Libčice nad Vltavou",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571326,
+"nazev": "Lichoceves",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539457,
+"nazev": "Líšnice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 540765,
+"nazev": "Mníšek pod Brdy",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539490,
+"nazev": "Měchenice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 531618,
+"nazev": "Nučice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539503,
+"nazev": "Ohrobec",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571334,
+"nazev": "Okoř",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539511,
+"nazev": "Okrouhlo",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539520,
+"nazev": "Ořech",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539546,
+"nazev": "Petrov",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539562,
+"nazev": "Pohoří",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539571,
+"nazev": "Průhonice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539597,
+"nazev": "Psáry",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 532789,
+"nazev": "Ptice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571318,
+"nazev": "Roblín",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539627,
+"nazev": "Roztoky",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 531723,
+"nazev": "Rudná",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539660,
+"nazev": "Slapy",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539686,
+"nazev": "Statenice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539708,
+"nazev": "Středokluky",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571342,
+"nazev": "Svrkyně",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 531821,
+"nazev": "Tachlovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 598313,
+"nazev": "Trnová",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539767,
+"nazev": "Tuchoměřice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539775,
+"nazev": "Tursko",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539759,
+"nazev": "Třebotov",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539813,
+"nazev": "Velké Přílepy",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 513458,
+"nazev": "Vestec",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539830,
+"nazev": "Vonoklasy",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539848,
+"nazev": "Vrané nad Vltavou",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539856,
+"nazev": "Všenory",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571288,
+"nazev": "Zahořany",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539872,
+"nazev": "Zbuzany",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539881,
+"nazev": "Zlatníky-Hodkovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539902,
+"nazev": "Zvole",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 571351,
+"nazev": "Úholičky",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 532991,
+"nazev": "Úhonice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539805,
+"nazev": "Únětice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539121,
+"nazev": "Černolice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539139,
+"nazev": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 532215,
+"nazev": "Červený Újezd",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539155,
+"nazev": "Čisovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539147,
+"nazev": "Číčovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539643,
+"nazev": "Řevnice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539651,
+"nazev": "Řitka",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 539732,
+"nazev": "Štěchovice",
+"okres": "Praha-západ",
+"kraj": "Středočeský",
+"orp": "Černošice"
+},
+{
+"kod": 529672,
+"nazev": "Bezděkov pod Třemšínem",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564559,
+"nazev": "Bohostice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 539953,
+"nazev": "Bohutín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 539970,
+"nazev": "Borotice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 539988,
+"nazev": "Bratkovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564664,
+"nazev": "Bukovany",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540021,
+"nazev": "Buková u Příbramě",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540013,
+"nazev": "Březnice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564419,
+"nazev": "Cetyně",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540323,
+"nazev": "Chotilsko",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540358,
+"nazev": "Chraštice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564249,
+"nazev": "Chrást",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540099,
+"nazev": "Daleké Dušníky",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 513504,
+"nazev": "Dlouhá Lhota",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540111,
+"nazev": "Dobříš",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540129,
+"nazev": "Dolní Hbity",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 599298,
+"nazev": "Drahenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540145,
+"nazev": "Drahlín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540170,
+"nazev": "Drevníky",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540188,
+"nazev": "Drhovy",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540153,
+"nazev": "Drásov",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598381,
+"nazev": "Dubenec",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540218,
+"nazev": "Dublovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564508,
+"nazev": "Dubno",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540242,
+"nazev": "Hluboš",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564605,
+"nazev": "Hlubyně",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564257,
+"nazev": "Horčápsko",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 513580,
+"nazev": "Hudčice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540315,
+"nazev": "Hvožďany",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598402,
+"nazev": "Háje",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540285,
+"nazev": "Hřiměždice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540374,
+"nazev": "Jablonná",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540391,
+"nazev": "Jesenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 540404,
+"nazev": "Jince",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540439,
+"nazev": "Kamýk nad Vltavou",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540447,
+"nazev": "Klučenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 599204,
+"nazev": "Korkyně",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540498,
+"nazev": "Kosova Hora",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 513555,
+"nazev": "Kotenčice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 529681,
+"nazev": "Koupě",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540536,
+"nazev": "Kozárovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540552,
+"nazev": "Krásná Hora nad Vltavou",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 598461,
+"nazev": "Kňovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 540579,
+"nazev": "Křepenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 540587,
+"nazev": "Křešín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564346,
+"nazev": "Lazsko",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 513521,
+"nazev": "Lešetice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598411,
+"nazev": "Lhota u Příbramě",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540625,
+"nazev": "Láz",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540714,
+"nazev": "Malá Hraštice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540749,
+"nazev": "Milešov",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 540757,
+"nazev": "Milín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 599751,
+"nazev": "Modřovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540781,
+"nazev": "Mokrovraty",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540790,
+"nazev": "Nalžovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564478,
+"nazev": "Narysov",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540846,
+"nazev": "Nechvalice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 540820,
+"nazev": "Nedrahovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564524,
+"nazev": "Nepomuk",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564222,
+"nazev": "Nestrašovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540811,
+"nazev": "Nečín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540889,
+"nazev": "Nová Ves pod Pleší",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540897,
+"nazev": "Nové Dvory",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540901,
+"nazev": "Nový Knín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 540935,
+"nazev": "Obecnice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540943,
+"nazev": "Obory",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540951,
+"nazev": "Obořiště",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 513571,
+"nazev": "Občov",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540960,
+"nazev": "Ohrazenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598470,
+"nazev": "Osečany",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 598372,
+"nazev": "Ostrov",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541010,
+"nazev": "Ouběnice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541044,
+"nazev": "Petrovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 541028,
+"nazev": "Pečice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541052,
+"nazev": "Pičín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564486,
+"nazev": "Podlesí",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564214,
+"nazev": "Počaply",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541087,
+"nazev": "Počepice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 541133,
+"nazev": "Prosenická Lhota",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 539911,
+"nazev": "Příbram",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 513547,
+"nazev": "Příčovy",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 598488,
+"nazev": "Radíč",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564389,
+"nazev": "Radětice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541206,
+"nazev": "Rosovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541231,
+"nazev": "Rožmitál pod Třemšínem",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541257,
+"nazev": "Rybníky",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 530573,
+"nazev": "Sedlec-Prčice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564630,
+"nazev": "Sedlice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541281,
+"nazev": "Sedlčany",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 541311,
+"nazev": "Smolotely",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541320,
+"nazev": "Solenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564583,
+"nazev": "Starosedlský Hrádek",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541338,
+"nazev": "Stará Huť",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541371,
+"nazev": "Suchodol",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541389,
+"nazev": "Svaté Pole",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541397,
+"nazev": "Svatý Jan",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564273,
+"nazev": "Svojšice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541273,
+"nazev": "Sádek",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541427,
+"nazev": "Tochovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598429,
+"nazev": "Trhové Dušníky",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598330,
+"nazev": "Tušovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 529664,
+"nazev": "Těchařovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541451,
+"nazev": "Třebsko",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 513539,
+"nazev": "Velká Lečice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541516,
+"nazev": "Višňová",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541524,
+"nazev": "Volenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541541,
+"nazev": "Voznice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541567,
+"nazev": "Vranovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564362,
+"nazev": "Vrančice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541583,
+"nazev": "Vysoká u Příbramě",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541591,
+"nazev": "Vysoký Chlumec",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 541508,
+"nazev": "Věšín",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 598437,
+"nazev": "Vševily",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 541613,
+"nazev": "Zalužany",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 564320,
+"nazev": "Zbenice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 513512,
+"nazev": "Zduchovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540072,
+"nazev": "Čenkov",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Příbram"
+},
+{
+"kod": 540081,
+"nazev": "Čím",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 541419,
+"nazev": "Štětkovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Sedlčany"
+},
+{
+"kod": 564338,
+"nazev": "Županovice",
+"okres": "Příbram",
+"kraj": "Středočeský",
+"orp": "Dobříš"
+},
+{
+"kod": 565423,
+"nazev": "Bdín",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541672,
+"nazev": "Branov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565041,
+"nazev": "Břežany",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541818,
+"nazev": "Chrášťany",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 529711,
+"nazev": "Drahouš",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565181,
+"nazev": "Děkov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541729,
+"nazev": "Hořesedly",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541737,
+"nazev": "Hořovičky",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565202,
+"nazev": "Hracholusky",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565334,
+"nazev": "Hvozd",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541761,
+"nazev": "Hřebečníky",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541770,
+"nazev": "Hředle",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565270,
+"nazev": "Janov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541834,
+"nazev": "Jesenice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565440,
+"nazev": "Kalivody",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565288,
+"nazev": "Karlova Ves",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541877,
+"nazev": "Kněževes",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565199,
+"nazev": "Kolešov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541893,
+"nazev": "Kolešovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541907,
+"nazev": "Kounov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565385,
+"nazev": "Kozojedy",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565351,
+"nazev": "Krakov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565369,
+"nazev": "Krakovec",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541940,
+"nazev": "Kroučová",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 598500,
+"nazev": "Krty",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541966,
+"nazev": "Krupá",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541974,
+"nazev": "Krušovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541982,
+"nazev": "Křivoklát",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542008,
+"nazev": "Lašovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542016,
+"nazev": "Lišany",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542032,
+"nazev": "Lubná",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542041,
+"nazev": "Lužná",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565377,
+"nazev": "Malinová",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542075,
+"nazev": "Milostín",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565466,
+"nazev": "Milý",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542121,
+"nazev": "Mutějovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542067,
+"nazev": "Městečko",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542105,
+"nazev": "Mšec",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542113,
+"nazev": "Mšecké Žehrovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542130,
+"nazev": "Nesuchyně",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 598585,
+"nazev": "Nezabudice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542164,
+"nazev": "Nové Strašecí",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542181,
+"nazev": "Nový Dům",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542199,
+"nazev": "Olešná",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542202,
+"nazev": "Oráčov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542211,
+"nazev": "Panoší Újezd",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 544248,
+"nazev": "Pavlíkov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542229,
+"nazev": "Petrovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542237,
+"nazev": "Pochvalov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542288,
+"nazev": "Pustověty",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 598577,
+"nazev": "Přerubenice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565261,
+"nazev": "Přílepy",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542253,
+"nazev": "Příčina",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542270,
+"nazev": "Pšovlky",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541656,
+"nazev": "Rakovník",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 599760,
+"nazev": "Račice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 598526,
+"nazev": "Roztoky",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542326,
+"nazev": "Ruda",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542334,
+"nazev": "Rynholec",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542369,
+"nazev": "Senec",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542377,
+"nazev": "Senomaty",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542385,
+"nazev": "Skryje",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542415,
+"nazev": "Slabce",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565407,
+"nazev": "Smilovice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542431,
+"nazev": "Srbeč",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542458,
+"nazev": "Svojetín",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542466,
+"nazev": "Sýkořice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542504,
+"nazev": "Třeboc",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542512,
+"nazev": "Třtice",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542563,
+"nazev": "Velká Buková",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 529699,
+"nazev": "Velká Chmelištná",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565512,
+"nazev": "Václavy",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565130,
+"nazev": "Všesulov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542598,
+"nazev": "Všetaty",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542601,
+"nazev": "Zavidov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542610,
+"nazev": "Zbečno",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 541699,
+"nazev": "Čistá",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542351,
+"nazev": "Řevničov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565504,
+"nazev": "Řeřichy",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 542474,
+"nazev": "Šanov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 565326,
+"nazev": "Švihov",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 598496,
+"nazev": "Šípy",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 598518,
+"nazev": "Žďár",
+"okres": "Rakovník",
+"kraj": "Středočeský",
+"orp": "Rakovník"
+},
+{
+"kod": 564575,
+"nazev": "Bechlín",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564591,
+"nazev": "Bohušovice nad Ohří",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 564621,
+"nazev": "Brozany nad Ohří",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 546755,
+"nazev": "Brzánky",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564613,
+"nazev": "Brňany",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 564656,
+"nazev": "Budyně nad Ohří",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564648,
+"nazev": "Bříza",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564923,
+"nazev": "Chodouny",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564931,
+"nazev": "Chodovlice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564958,
+"nazev": "Chotiměř",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564940,
+"nazev": "Chotěšov",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564672,
+"nazev": "Ctiněves",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564737,
+"nazev": "Dlažkovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564745,
+"nazev": "Dobříň",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564753,
+"nazev": "Doksany",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 553646,
+"nazev": "Dolánky nad Ohří",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 564818,
+"nazev": "Dušníky",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564729,
+"nazev": "Děčany",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564834,
+"nazev": "Evaň",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564851,
+"nazev": "Horní Beřkovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564877,
+"nazev": "Hoštka",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 564893,
+"nazev": "Hrobce",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 505528,
+"nazev": "Jenčice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 546771,
+"nazev": "Kamýk",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565016,
+"nazev": "Keblice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565024,
+"nazev": "Klapý",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565032,
+"nazev": "Kleneč",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565059,
+"nazev": "Kostomlaty pod Řípem",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565067,
+"nazev": "Krabčice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565091,
+"nazev": "Kyškovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565075,
+"nazev": "Křesín",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565083,
+"nazev": "Křešice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565113,
+"nazev": "Lhotka nad Labem",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565148,
+"nazev": "Libkovice pod Řípem",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565156,
+"nazev": "Libochovany",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565164,
+"nazev": "Libochovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565172,
+"nazev": "Libotenice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564567,
+"nazev": "Litoměřice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 546691,
+"nazev": "Lkáň",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565229,
+"nazev": "Lovosice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565237,
+"nazev": "Lukavec",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565245,
+"nazev": "Malé Žernoseky",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 542491,
+"nazev": "Malíč",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565253,
+"nazev": "Martiněves",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 542521,
+"nazev": "Michalovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 530506,
+"nazev": "Miřejovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565296,
+"nazev": "Mlékojedy",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565300,
+"nazev": "Mnetěš",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565318,
+"nazev": "Mšené-lázně",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565342,
+"nazev": "Nové Dvory",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 542440,
+"nazev": "Oleško",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565415,
+"nazev": "Podsedice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565431,
+"nazev": "Polepy",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565458,
+"nazev": "Prackovice nad Labem",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 542539,
+"nazev": "Píšťany",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565474,
+"nazev": "Přestavlky",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565521,
+"nazev": "Radovesice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565482,
+"nazev": "Račice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565491,
+"nazev": "Račiněves",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565547,
+"nazev": "Rochov",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565555,
+"nazev": "Roudnice nad Labem",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 546721,
+"nazev": "Sedlec",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565598,
+"nazev": "Siřejovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565601,
+"nazev": "Slatina",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565679,
+"nazev": "Straškov-Vodochody",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565695,
+"nazev": "Sulejovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565717,
+"nazev": "Terezín",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565741,
+"nazev": "Travčice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565768,
+"nazev": "Třebenice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565776,
+"nazev": "Třebívlice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565865,
+"nazev": "Vchynice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565849,
+"nazev": "Velemín",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565857,
+"nazev": "Velké Žernoseky",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565873,
+"nazev": "Vlastislav",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565881,
+"nazev": "Vražkov",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565890,
+"nazev": "Vrbice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565903,
+"nazev": "Vrbičany",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565911,
+"nazev": "Vrutice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565831,
+"nazev": "Vědomice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 542482,
+"nazev": "Záluží",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565806,
+"nazev": "Úpohlavy",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 564699,
+"nazev": "Černiv",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 542423,
+"nazev": "Černouček",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 546852,
+"nazev": "Černěves",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 564711,
+"nazev": "Čížkovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Lovosice"
+},
+{
+"kod": 565709,
+"nazev": "Štětí",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565938,
+"nazev": "Žabovřesky nad Ohří",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+},
+{
+"kod": 565946,
+"nazev": "Žalhostice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Litoměřice"
+},
+{
+"kod": 565954,
+"nazev": "Židovice",
+"okres": "Litoměřice",
+"kraj": "Ústecký",
+"orp": "Roudnice nad Labem"
+}
+]

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Obecní radar</title>
+<meta name="description" content="Přehled úředních desek a portálů s filtry a e-mailovými odběry.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <span class="logo" aria-hidden="true">◎</span>
+    <div>
+      <h1>Obecní radar</h1>
+      <p class="sub">Úřední desky a portály na jednom místě</p>
+    </div>
+  </div>
+  <div class="lastrun" id="lastrun">Načítám…</div>
+</header>
+
+<main class="layout">
+  <button type="button" class="ghost filters-toggle" id="filters-toggle" aria-controls="filters" aria-expanded="false">Filtry a předvolby</button>
+  <aside class="filters" id="filters" aria-label="Filtry">
+    <section>
+      <h2>Předvolba</h2>
+      <div class="presets" id="presets" role="radiogroup"></div>
+      <p class="hint" id="preset-desc"></p>
+    </section>
+
+    <section>
+      <h2>Hledat v názvu</h2>
+      <input type="search" id="q" placeholder="např. kanalizace, D8, rozhodnutí…" autocomplete="off">
+    </section>
+
+    <section>
+      <h2>Období zveřejnění</h2>
+      <div class="row2">
+        <label>od <input type="date" id="from"></label>
+        <label>do <input type="date" id="to"></label>
+      </div>
+      <div class="chips quick" id="quick-range">
+        <button type="button" data-days="7">7 dní</button>
+        <button type="button" data-days="30">30 dní</button>
+        <button type="button" data-days="90">90 dní</button>
+        <button type="button" data-days="0">vše</button>
+      </div>
+    </section>
+
+    <section>
+      <h2>Obce</h2>
+      <div class="combo">
+        <input type="text" id="obec-input" placeholder="Přidat obec…" autocomplete="off" aria-autocomplete="list" aria-controls="obec-list">
+        <ul class="combo-list" id="obec-list" role="listbox" hidden></ul>
+      </div>
+      <div class="chips" id="obce-chips"></div>
+    </section>
+
+    <section>
+      <h2>Klíčová slova</h2>
+      <input type="text" id="kw-input" placeholder="Napište a stiskněte Enter" autocomplete="off">
+      <div class="chips" id="kw-chips"></div>
+      <p class="hint">Hledá se v názvu i v textu příloh, od začátku slova a bez ohledu na velikost písmen.</p>
+    </section>
+
+    <section id="mode-sec">
+      <h2>Kombinace</h2>
+      <label class="radio"><input type="radio" name="mode" value="or" checked> obec <b>nebo</b> klíčové slovo</label>
+      <label class="radio"><input type="radio" name="mode" value="and"> obec <b>a zároveň</b> klíčové slovo</label>
+    </section>
+
+    <section>
+      <h2>Zdroje <button type="button" class="link" id="src-all">vše</button> <button type="button" class="link" id="src-none">nic</button></h2>
+      <div id="sources"></div>
+    </section>
+  </aside>
+
+  <section class="results" aria-live="polite">
+    <div class="toolbar">
+      <div><strong id="count">0</strong> <span id="count-label">záznamů</span></div>
+      <div class="actions">
+        <button type="button" class="ghost" id="share">Kopírovat odkaz na filtr</button>
+        <button type="button" class="primary" id="subscribe">Odebírat e-mailem</button>
+      </div>
+    </div>
+    <ol class="list" id="list"></ol>
+    <button type="button" class="ghost more" id="more" hidden>Zobrazit další</button>
+    <p class="empty" id="empty" hidden>Žádné záznamy neodpovídají filtru.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <details>
+    <summary>Stav zdrojů</summary>
+    <table class="status" id="status"></table>
+  </details>
+  <p>Data se stahují automaticky několikrát denně. Nástroj nenahrazuje aktivní sledování úředních desek – skeny bez textu nemusí rozpoznat.</p>
+</footer>
+
+<dialog id="sub-dialog">
+  <form method="dialog" id="sub-form">
+    <h2>Odebírat e-mailem</h2>
+    <p class="hint">Do e-mailu budou chodit nové záznamy odpovídající aktuálnímu filtru (zdroje, obce, klíčová slova, kombinace). Období a hledání v názvu se do odběru nepřenáší.</p>
+    <label>Název odběru <input name="name" required placeholder="např. Dřínov – starosta"></label>
+    <label>E-mail <input name="email" type="email" required placeholder="obec@example.cz"></label>
+    <fieldset>
+      <legend>Frekvence</legend>
+      <label class="radio"><input type="radio" name="frequency" value="ihned"> ihned po nálezu</label>
+      <label class="radio"><input type="radio" name="frequency" value="denne" checked> denní souhrn (ráno)</label>
+      <label class="radio"><input type="radio" name="frequency" value="tydne"> týdenní souhrn (pondělí ráno)</label>
+    </fieldset>
+    <div class="sub-out" id="sub-out" hidden>
+      <p><b>Hotovo.</b> E-mail je zašifrovaný – ve veřejném repozitáři ho nikdo nepřečte. Zkopírujte položku a vložte ji do seznamu <code>subscriptions</code> v souboru <code>config/subscriptions.json</code>:</p>
+      <textarea id="sub-json" readonly rows="8"></textarea>
+      <div class="actions">
+        <button type="button" class="ghost" id="sub-copy">Zkopírovat</button>
+        <a class="button primary" id="sub-edit" target="_blank" rel="noopener">Otevřít soubor na GitHubu</a>
+      </div>
+    </div>
+    <div class="actions">
+      <button value="cancel" class="ghost" formnovalidate>Zavřít</button>
+      <button type="button" class="primary" id="sub-generate">Vytvořit odběr</button>
+    </div>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
