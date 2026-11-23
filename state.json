@@ -64,12 +64,22 @@
     "desu:11654",
     "desu:11655",
     "desu:11656",
-    "desu:11657"
+    "desu:11657",
+    "desu:11658",
+    "desu:11659",
+    "desu:11660",
+    "desu:11661",
+    "desu:11662",
+    "desu:11663",
+    "desu:11664",
+    "desu:11665",
+    "desu:11666",
+    "desu:11667"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 63
+   "last_new": 10
   },
   "cenia_eia": {
    "known": [
@@ -151,10 +161,10 @@
     "cenia_eia:ZLK1050:Oznámení:2026-10-27",
     "cenia_eia:ZLK536:Prodloužení platnosti stanoviska:2026-11-09"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 77
+   "last_new": 0
   },
   "kraj_stc": {
    "known": []
@@ -401,7 +411,7 @@
     "kraj_ust:https://www.kr-ustecky.cz/4708118"
    ],
    "last_ok": "2026-11-23T20:48+01:00",
-   "last_error": null,
+   "last_error": "2026-11-23T22:44+01:00: ConnectTimeout: HTTPSConnectionPool(host='www.kr-ustecky.cz', port=443): Max retries exceeded with url: /opendata-uredni-deska (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kr-ustecky.cz', port=443) at 0x7b505d86a060>, 'Connection to www.kr-ustecky.cz timed out. (connect timeout=180)'))",
    "since": "2026-11-20",
    "last_new": 238
   },
@@ -551,10 +561,10 @@
     "sz_zakazky:VZ-18466",
     "sz_zakazky:VZ-2590"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 143
+   "last_new": 0
   },
   "rsd": {
    "known": []
@@ -575,10 +585,10 @@
     "cenia_sea:ULK033K:Oznámení:2026-11-10",
     "cenia_sea:ZLK026K:Nepodléhá dalšímu posuzování:2026-11-11"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 7
+   "last_new": 0
   },
   "kralupy": {
    "known": [
@@ -664,10 +674,10 @@
     "kralupy:9618",
     "kralupy:odt_kralupy_int.json"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 81
+   "last_new": 0
   },
   "spu": {
    "known": []
@@ -680,10 +690,10 @@
     "dotace_sfzp:22888",
     "dotace_sfzp:23008"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 5
+   "last_new": 0
   },
   "dotace_mmr": {
    "known": [
@@ -799,10 +809,10 @@
     "dotace_mmr:/narodni-dotace/zivel-pomoc-v-nouzi-(zivel-4)-(1)/zivel-4-pomoc-v-nouzi-nouzove-prostory-(vyzva-2026",
     "dotace_mmr:/narodni-dotace/zivel-pomoc-v-nouzi-(zivel-4)-(1)/zivel-pomoc-v-nouzi-zivel-4"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 111
+   "last_new": 0
   },
   "uzsvm": {
    "known": [
@@ -1695,10 +1705,10 @@
     "uzsvm:89905",
     "uzsvm:90323"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 888
+   "last_new": 0
   },
   "dotace_opzp": {
    "known": [
@@ -1708,10 +1718,10 @@
     "dotace_opzp:https://opzp.cz/dotace/109-vyzva/",
     "dotace_opzp:https://opzp.cz/dotace/79-vyzva/"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 5
+   "last_new": 0
   },
   "dotace_npzp": {
    "known": [
@@ -1726,10 +1736,10 @@
     "dotace_npzp:https://www.narodniprogramzp.cz/nabidka-dotaci/detail-vyzvy/?id=181",
     "dotace_npzp:https://www.narodniprogramzp.cz/nabidka-dotaci/detail-vyzvy/?id=182"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 10
+   "last_new": 0
   },
   "dotace_irop": {
    "known": [
@@ -1744,10 +1754,10 @@
     "dotace_irop:https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/122vyzvaIROP",
     "dotace_irop:https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/85vyzvaIROP"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 10
+   "last_new": 0
   },
   "dotace_nsa": {
    "known": [
@@ -1769,10 +1779,10 @@
     "dotace_nsa:https://nsa.gov.cz/dotace/vyzva-7-2026-vyznamne-sportovni-akce-mimoradne-dulezitosti-2026/",
     "dotace_nsa:https://nsa.gov.cz/dotace/vyzva-8-2026-muj-klub-2026/"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 17
+   "last_new": 0
   },
   "dotace_hzs": {
    "known": [
@@ -1783,10 +1793,10 @@
     "dotace_hzs:https://hzscr.gov.cz/vydaje-za-op-za-uskutecneny-zasah-jsdho-mimo-uzemni-obvod-jejiho-zrizovatele-na-vybaveni-opravy",
     "dotace_hzs:https://hzscr.gov.cz/zabezpeceni-akceschopnosti-jsdh-vybranych-obci"
    ],
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null,
    "since": "2026-11-20",
-   "last_new": 6
+   "last_new": 0
   },
   "dotace_szif": {
    "known": []
@@ -1796,5 +1806,5 @@
   }
  },
  "subs": {},
- "last_run": "2026-11-23T20:48+01:00"
+ "last_run": "2026-11-23T22:44+01:00"
 }

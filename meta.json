@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-23T20:48+01:00",
+ "last_run": "2026-11-23T22:44+01:00",
  "months": [
   "2016-06",
   "2017-06",
@@ -39,7 +39,7 @@
    "url": "https://espis.desu.gov.cz/eDeska/eDeskaAktualni.jsp",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -49,7 +49,7 @@
    "url": "https://portal.cenia.cz/eiasea/view/eia100_cr?lang=cs",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -70,7 +70,7 @@
    "govradar": true,
    "status": "ok",
    "last_ok": "2026-11-23T20:48+01:00",
-   "last_error": null
+   "last_error": "2026-11-23T22:44+01:00: ConnectTimeout: HTTPSConnectionPool(host='www.kr-ustecky.cz', port=443): Max retries exceeded with url: /opendata-uredni-deska (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kr-ustecky.cz', port=443) at 0x7b505d86a060>, 'Connection to www.kr-ustecky.cz timed out. (connect timeout=180)'))"
   },
   {
    "id": "sz_zakazky",
@@ -79,7 +79,7 @@
    "url": "https://zakazky.spravazeleznic.cz/contract_index.html?type=all&state=all",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -119,7 +119,7 @@
    "url": "https://portal.cenia.cz/eiasea/view/sea100_koncepce?lang=cs",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -129,7 +129,7 @@
    "url": "https://www.mestokralupy.cz/mestsky-urad/uredni-deska/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -149,7 +149,7 @@
    "url": "https://sfzp.gov.cz/dotace-a-pujcky/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -159,7 +159,7 @@
    "url": "https://mmr.gov.cz/cs/narodni-dotace",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -169,7 +169,7 @@
    "url": "https://nabidkamajetku.gov.cz/Home/OffersUsc?ListType=offer-usc",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -179,7 +179,7 @@
    "url": "https://opzp.cz/nabidka-dotaci/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -189,7 +189,7 @@
    "url": "https://www.narodniprogramzp.cz/nabidka-dotaci/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -199,7 +199,7 @@
    "url": "https://irop.gov.cz/cs/vyzvy-2021-2027",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -209,7 +209,7 @@
    "url": "https://nsa.gov.cz/dotace-investicni/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
@@ -219,7 +219,7 @@
    "url": "https://hzscr.gov.cz/dotace",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
+   "last_ok": "2026-11-23T22:44+01:00",
    "last_error": null
   },
   {
