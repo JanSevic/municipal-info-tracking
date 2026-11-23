@@ -1,0 +1,246 @@
+{
+ "last_run": "2026-11-23T20:48+01:00",
+ "months": [
+  "2016-06",
+  "2017-06",
+  "2018-05",
+  "2018-10",
+  "2021-05",
+  "2022-09",
+  "2023-02",
+  "2024-02",
+  "2024-08",
+  "2024-11",
+  "2025-01",
+  "2025-03",
+  "2025-04",
+  "2025-06",
+  "2025-07",
+  "2025-08",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09",
+  "2026-10",
+  "2026-11"
+ ],
+ "sources": [
+  {
+   "id": "desu",
+   "name": "DESÚ – úřední deska",
+   "group": "Stavby a záměry",
+   "url": "https://espis.desu.gov.cz/eDeska/eDeskaAktualni.jsp",
+   "govradar": true,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "cenia_eia",
+   "name": "CENIA – EIA záměry",
+   "group": "Stavby a záměry",
+   "url": "https://portal.cenia.cz/eiasea/view/eia100_cr?lang=cs",
+   "govradar": true,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "kraj_stc",
+   "name": "Středočeský kraj – úřední deska",
+   "group": "Kraje",
+   "url": "https://stredoceskykraj.cz/web/urad/uredni-deska",
+   "govradar": true,
+   "status": "blokovano",
+   "last_ok": null,
+   "last_error": null
+  },
+  {
+   "id": "kraj_ust",
+   "name": "Ústecký kraj – úřední deska",
+   "group": "Kraje",
+   "url": "https://www.kr-ustecky.cz/uredni-deska-prehled",
+   "govradar": true,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "sz_zakazky",
+   "name": "Správa železnic – veřejné zakázky",
+   "group": "Stavby a záměry",
+   "url": "https://zakazky.spravazeleznic.cz/contract_index.html?type=all&state=all",
+   "govradar": true,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "rsd",
+   "name": "ŘSD – úřední deska",
+   "group": "Stavby a záměry",
+   "url": "https://www.rsd.cz/uredni-deska",
+   "govradar": false,
+   "status": "blokovano",
+   "last_ok": null,
+   "last_error": null
+  },
+  {
+   "id": "sz_deska",
+   "name": "Správa železnic – úřední deska",
+   "group": "Stavby a záměry",
+   "url": "https://www.spravazeleznic.cz/o-nas/uredni-deska",
+   "govradar": false,
+   "status": "pripravuje",
+   "last_ok": null,
+   "last_error": null
+  },
+  {
+   "id": "md",
+   "name": "Ministerstvo dopravy – úřední deska",
+   "group": "Stavby a záměry",
+   "url": "https://md.gov.cz/O-nas/Uredni-deska",
+   "govradar": false,
+   "status": "pripravuje",
+   "last_ok": null,
+   "last_error": null
+  },
+  {
+   "id": "cenia_sea",
+   "name": "CENIA – SEA koncepce",
+   "group": "Stavby a záměry",
+   "url": "https://portal.cenia.cz/eiasea/view/sea100_koncepce?lang=cs",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "kralupy",
+   "name": "MěÚ Kralupy n. Vlt. (ORP, stavební úřad)",
+   "group": "Místní úřady",
+   "url": "https://www.mestokralupy.cz/mestsky-urad/uredni-deska/",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "spu",
+   "name": "Státní pozemkový úřad – úřední deska",
+   "group": "Místní úřady",
+   "url": "https://spu.gov.cz/",
+   "govradar": false,
+   "status": "pripravuje",
+   "last_ok": null,
+   "last_error": null
+  },
+  {
+   "id": "dotace_sfzp",
+   "name": "SFŽP – dotační výzvy",
+   "group": "Dotace",
+   "url": "https://sfzp.gov.cz/dotace-a-pujcky/",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_mmr",
+   "name": "MMR – národní dotace",
+   "group": "Dotace",
+   "url": "https://mmr.gov.cz/cs/narodni-dotace",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "uzsvm",
+   "name": "ÚZSVM – nabídka majetku pro obce",
+   "group": "Majetek",
+   "url": "https://nabidkamajetku.gov.cz/Home/OffersUsc?ListType=offer-usc",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_opzp",
+   "name": "OPŽP – výzvy (odpady, voda, energie)",
+   "group": "Dotace",
+   "url": "https://opzp.cz/nabidka-dotaci/",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_npzp",
+   "name": "Národní program Životní prostředí – výzvy",
+   "group": "Dotace",
+   "url": "https://www.narodniprogramzp.cz/nabidka-dotaci/",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_irop",
+   "name": "IROP – výzvy",
+   "group": "Dotace",
+   "url": "https://irop.gov.cz/cs/vyzvy-2021-2027",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_nsa",
+   "name": "Národní sportovní agentura – výzvy",
+   "group": "Dotace",
+   "url": "https://nsa.gov.cz/dotace-investicni/",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_hzs",
+   "name": "MV/HZS – dotace pro jednotky hasičů obcí",
+   "group": "Dotace",
+   "url": "https://hzscr.gov.cz/dotace",
+   "govradar": false,
+   "status": "ok",
+   "last_ok": "2026-11-23T20:48+01:00",
+   "last_error": null
+  },
+  {
+   "id": "dotace_szif",
+   "name": "SZIF – zemědělské a venkovské dotace",
+   "group": "Dotace",
+   "url": "https://szif.gov.cz/cs",
+   "govradar": false,
+   "status": "pripravuje",
+   "last_ok": null,
+   "last_error": null
+  },
+  {
+   "id": "dotace_sfdi",
+   "name": "SFDI – chodníky, cyklostezky, bezpečnost",
+   "group": "Dotace",
+   "url": "https://sfdi.gov.cz/",
+   "govradar": false,
+   "status": "pripravuje",
+   "last_ok": null,
+   "last_error": null
+  }
+ ]
+}
