@@ -2,7 +2,7 @@ name: Obecní radar – sběr a web
 
 on:
   schedule:
-    - cron: "17 */2 * * *"      # každé 2 hodiny (UTC)
+    - cron: "17 6 * * *"        # jednou denně v 6:17 UTC (7:17 SEČ / 8:17 SELČ) – po 7:00, aby odešly i denní souhrny
   workflow_dispatch:
     inputs:
       dry_run:
