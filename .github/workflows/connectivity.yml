@@ -1,0 +1,32 @@
+name: Connectivity test
+on:
+  push:
+    paths: ['.github/workflows/connectivity.yml']
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe sources
+        run: |
+          for u in \
+            "https://espis.desu.gov.cz/eDeska/eDeskaAktualni.jsp" \
+            "https://portal.cenia.cz/eiasea/view/eia100_cr?lang=cs" \
+            "https://stredoceskykraj.cz/web/urad/uredni-deska" \
+            "https://www.stredoceskykraj.cz/web/urad/uredni-deska" \
+            "https://www.kr-ustecky.cz/uredni-deska-prehled" \
+            "https://zakazky.spravazeleznic.cz/contract_index.html?type=all&state=all" \
+            "https://www.spravazeleznic.cz/" \
+            "https://www.rsd.cz/" \
+            "https://md.gov.cz/" \
+            "https://www.mestokralupy.cz/" \
+            "https://www.spucr.cz/" \
+            "https://spu.gov.cz/" \
+            "https://www.uzsvm.cz/" \
+            "https://www.nabidkamajetku.cz/" \
+            "https://www.sfzp.cz/" \
+            "https://mmr.gov.cz/" \
+            "https://ags.cuzk.gov.cz/" \
+            "https://data.gov.cz/" ; do
+            echo "$u -> $(curl -s -L -o /dev/null -w '%{http_code} %{size_download} %{ssl_verify_result}' -m 40 "$u" || echo FAIL)"
+          done
