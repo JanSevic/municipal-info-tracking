@@ -23,7 +23,7 @@ from zoneinfo import ZoneInfo
 log = logging.getLogger(__name__)
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TZ = ZoneInfo("Europe/Prague")
-SEND_HOUR = 7          # denní a týdenní souhrny se posílají při prvním běhu po 7:00
+SEND_HOUR = 0          # sběr běží jednou denně ve 3:00, souhrny jdou hned po něm
 SITE_URL = os.environ.get("SITE_URL", "")
 
 

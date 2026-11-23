@@ -6,7 +6,7 @@ Běží zdarma na GitHubu: sběr dat obstarává GitHub Actions, web GitHub Page
 
 ## Jak to funguje
 
-1. Jednou denně ráno se spustí GitHub Action (`.github/workflows/radar.yml`) a stáhne
+1. Jednou denně ve 3:00 se spustí GitHub Action (`.github/workflows/radar.yml`) a stáhne
    všechny zdroje. U nových záznamů přečte i text příloh (PDF, DOCX, ODT) a
    rozpozná zmíněné obce: všech 1 144 obcí Středočeského kraje a obce
    Podřipska v Ústeckém kraji.
@@ -87,7 +87,7 @@ v GovRadaru, ale jen v příslušných zdrojích:
    (výchozí 587), `SMTP_USER`, `SMTP_PASSWORD`, `SMTP_FROM` a volitelně
    `SMTP_SECURITY` (`starttls` jako výchozí, `ssl` nebo `none`).
 4. První sběr: Actions → *Obecní radar – sběr a web* → *Run workflow*. Jinak
-   proběhne sám následující ráno.
+   proběhne sám následující den ve 3:00.
 
 ## Přidání e-mailového odběru
 
@@ -98,8 +98,8 @@ v GovRadaru, ale jen v příslušných zdrojích:
    Odkaz „Otevřít soubor na GitHubu“ vás přesměruje přímo do editoru.
 
 Odběr pošle jen záznamy, které přibudou po jeho vytvoření. Sběr běží jednou
-denně ráno (kolem 7:15, v létě 8:15), takže „ihned“ i „denně“ chodí ráno po
-sběru a týdenní souhrn v pondělí ráno. Když nic nového není, e-mail se nepošle.
+denně ve 3:00, takže „ihned“ i „denně“ chodí hned po něm a týdenní souhrn
+v pondělí ve 3:00. Když nic nového není, e-mail se nepošle.
 
 ## Lokální spuštění
 

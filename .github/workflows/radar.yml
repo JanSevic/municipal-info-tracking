@@ -2,7 +2,10 @@ name: Obecní radar – sběr a web
 
 on:
   schedule:
-    - cron: "17 6 * * *"        # jednou denně v 6:17 UTC (7:17 SEČ / 8:17 SELČ) – po 7:00, aby odešly i denní souhrny
+    # Denně ve 3:00 českého času. GitHub plánuje v UTC, proto dva plány:
+    # 1:00 UTC = 3:00 letního času, 2:00 UTC = 3:00 zimního času; job „gate“ pustí jen ten správný.
+    - cron: "0 1 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -23,7 +26,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.g.outputs.run }}
+    steps:
+      - id: g
+        run: |
+          RUN=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            OFFSET=$(TZ=Europe/Prague date +%z)            # +0200 léto, +0100 zima
+            if [ "${{ github.event.schedule }}" = "0 1 * * *" ] && [ "$OFFSET" != "+0200" ]; then RUN=false; fi
+            if [ "${{ github.event.schedule }}" = "0 2 * * *" ] && [ "$OFFSET" != "+0100" ]; then RUN=false; fi
+          fi
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+
   collect:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     outputs:
