@@ -28,7 +28,7 @@ Běží zdarma na GitHubu: sběr dat obstarává GitHub Actions, web GitHub Page
 | Ústecký kraj – úřední deska | ✅ | v GovRadaru; otevřená data (OFN) |
 | Správa železnic – veřejné zakázky | ✅ | v GovRadaru; XML export profilu zadavatele |
 | ŘSD – úřední deska | ⛔ | **web blokuje servery mimo ČR** |
-| Správa železnic – úřední deska | 🔧 | web má neúplný řetězec certifikátů, připravuje se |
+| Správa železnic – úřední deska | 🔧 | chybějící certifikát na jejich serveru jsme doplnili (`config/geotrust_ev_rsa_ca_g2.pem`); firewall webu ale odmítá automatický přístup |
 | Ministerstvo dopravy – úřední deska | 🔧 | web je chráněný proti robotům, připravuje se |
 | CENIA – SEA koncepce | ✅ | |
 | MěÚ Kralupy n. Vlt. (ORP, stavební úřad) | ✅ | ORP pro Dřínov |

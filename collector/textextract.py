@@ -64,7 +64,7 @@ def fetch_text(url: str, name: str = "", session=None) -> tuple[str, str]:
     if name and name.lower().endswith((".zip", ".rar", ".7z", ".jpg", ".png", ".dwg", ".shp")):
         return "", "nestazeno"
     try:
-        with s.get(url, timeout=net.TIMEOUT, stream=True) as r:
+        with s.get(url, timeout=net.TIMEOUT, stream=True, verify=net.SESSION.verify) as r:
             r.raise_for_status()
             size = int(r.headers.get("Content-Length") or 0)
             if size > MAX_BYTES:
