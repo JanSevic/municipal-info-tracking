@@ -111,18 +111,27 @@ def matches(filter_: dict, rec_index: dict, text: str) -> bool:
     """Vyhodnotí filtr nad záznamem.
 
     filter_ = {"sources": [..] | None, "obce": [kód..], "keywords": [..],
-               "mode": "or" | "and", "categories": [..] | None}
+               "topics": [{"keywords": [..], "sources": [..]}],
+               "mode": "or" | "and"}
+
+    keywords platí ve všech zdrojích, topics jen ve svých zdrojích
+    (např. ZÚR jen na deskách krajů). Obojí se počítá jako „klíčové slovo“.
     """
     srcs = filter_.get("sources")
     if srcs and rec_index["source"] not in srcs:
         return False
     obce_f = set(filter_.get("obce") or [])
-    kws = filter_.get("keywords") or []
-    if not obce_f and not kws:
+    kws = list(filter_.get("keywords") or [])
+    topics = filter_.get("topics") or []
+    if not obce_f and not kws and not topics:
         return True
+    for t in topics:
+        if rec_index["source"] in (t.get("sources") or []):
+            kws += t.get("keywords") or []
     hit_obec = bool(obce_f & set(rec_index.get("obce") or []))
     hay = rec_index["title"] + "\n" + rec_index.get("category", "") + "\n" + (text or "")
     hit_kw = bool(find_keywords(hay, kws)) if kws else False
-    if filter_.get("mode") == "and" and obce_f and kws:
+    has_kw_side = bool(filter_.get("keywords") or topics)
+    if filter_.get("mode") == "and" and obce_f and has_kw_side:
         return hit_obec and hit_kw
     return hit_obec or hit_kw

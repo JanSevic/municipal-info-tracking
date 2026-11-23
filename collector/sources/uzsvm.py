@@ -11,7 +11,7 @@ from .util import cz_date
 
 BASE = "https://nabidkamajetku.gov.cz"
 SOURCE = {
-    "id": "uzsvm", "name": "ÚZSVM – nabídka majetku pro obce", "group": "Majetek a peníze",
+    "id": "uzsvm", "name": "ÚZSVM – nabídka majetku pro obce", "group": "Majetek",
     "url": BASE + "/Home/OffersUsc?ListType=offer-usc", "govradar": False,
 }
 

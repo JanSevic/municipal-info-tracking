@@ -33,8 +33,15 @@ Běží zdarma na GitHubu: sběr dat obstarává GitHub Actions, web GitHub Page
 | CENIA – SEA koncepce | ✅ | |
 | MěÚ Kralupy n. Vlt. (ORP, stavební úřad) | ✅ | ORP pro Dřínov |
 | Státní pozemkový úřad – úřední deska | 🔧 | web SPÚ momentálně nefunguje (chyba 504) |
-| SFŽP – dotační výzvy | ✅ | |
+| SFŽP – dotační výzvy | ✅ | finanční nástroje, půjčky, Modernizační fond, EUA |
+| OPŽP – výzvy | ✅ | odpady, voda, kanalizace, protipovodňová opatření, energie |
+| Národní program Životní prostředí | ✅ | |
+| IROP – výzvy | ✅ | školy, cyklostezky, hasiči, památky, eGovernment |
 | MMR – národní dotace | ✅ | nové programy a výzvy |
+| Národní sportovní agentura | ✅ | investiční i neinvestiční výzvy |
+| MV/HZS – dotace pro jednotky hasičů obcí | ✅ | |
+| SZIF (zemědělství, venkov) | 🔧 | web je chráněný proti robotům |
+| SFDI (chodníky, cyklostezky) | 🔧 | web odmítá automatický přístup (403) |
 | ÚZSVM – nabídka majetku pro obce | ✅ | |
 
 Klíčová slova a oblasti GovRadaru (KD8) jsou přepsané v `config/govradar_kd8.json`.
@@ -46,6 +53,15 @@ Actions běží v USA. Možná řešení:
 1. **Self-hosted runner** (zdarma) na počítači nebo NASu, který stojí v ČR,
    např. na obecním úřadě. Tyto dva zdroje by pak sbíral on.
 2. Malý český VPS (zhruba 100 Kč/měsíc) jako self-hosted runner.
+
+## Předvolba Dřínov
+
+Záznamy, které zmiňují Dřínov nebo obce sousedící katastrem (Hostín u Vojkovic,
+Vojkovice, Zlosyň, Újezdec, Úžice), ze všech zdrojů. K tomu témata jako
+v GovRadaru, ale jen v příslušných zdrojích:
+- ZÚR a přeložka: úřední desky krajů,
+- D8 a D0: DESÚ a ŘSD,
+- VRT a RS 1–5: Správa železnic a CENIA.
 
 ## Pravidla vyhledávání (web i e-mail se řídí stejnými)
 

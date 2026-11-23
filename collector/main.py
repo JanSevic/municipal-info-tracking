@@ -29,8 +29,12 @@ def vocabulary(subs):
                 + gr["stredocesky_kraj"]["klicova_slova"] + gr["ustecky_kraj"]["klicova_slova"])
     for p in presets:
         words.update(p["filter"].get("keywords") or [])
+        for t in p["filter"].get("topics") or []:
+            words.update(t["keywords"])
     for s in subs:
         words.update(s.get("filter", {}).get("keywords") or [])
+        for t in s.get("filter", {}).get("topics") or []:
+            words.update(t.get("keywords") or [])
     return sorted(w for w in words if w.strip())
 
 

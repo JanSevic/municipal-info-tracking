@@ -17,11 +17,11 @@ from ..model import Record
 from .util import iso_date, today
 
 SFZP = {
-    "id": "dotace_sfzp", "name": "SFŽP – dotační výzvy", "group": "Majetek a peníze",
+    "id": "dotace_sfzp", "name": "SFŽP – dotační výzvy", "group": "Dotace",
     "url": "https://sfzp.gov.cz/dotace-a-pujcky/", "govradar": False,
 }
 MMR = {
-    "id": "dotace_mmr", "name": "MMR – národní dotace", "group": "Majetek a peníze",
+    "id": "dotace_mmr", "name": "MMR – národní dotace", "group": "Dotace",
     "url": "https://mmr.gov.cz/cs/narodni-dotace", "govradar": False,
 }
 

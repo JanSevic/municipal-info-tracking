@@ -2,7 +2,7 @@
  {
   "id": "drinov",
   "name": "Dřínov",
-  "popis": "Dřínov a obce, se kterými sousedí katastrem (Hostín u Vojkovic, Vojkovice, Zlosyň, Újezdec, Úžice), plus témata D8, D0, VRT, RS 1–5, ZÚR a přeložka ze všech zdrojů.",
+  "popis": "Dřínov a obce, se kterými sousedí katastrem (Hostín u Vojkovic, Vojkovice, Zlosyň, Újezdec, Úžice), ze všech zdrojů. Navíc témata jako v GovRadaru jen v příslušných zdrojích: ZÚR a přeložka na deskách krajů, D8 a D0 na DESÚ a ŘSD, VRT a RS 1–5 u Správy železnic a CENIA.",
   "filter": {
    "sources": null,
    "obce": [
@@ -13,19 +13,49 @@
     599492,
     535257
    ],
-   "keywords": [
-    "D8",
-    "D0",
-    "VRT",
-    "RS 1",
-    "RS 2",
-    "RS 3",
-    "RS 4",
-    "RS 5",
-    "ZÚR",
-    "přeložka"
-   ],
-   "mode": "or"
+   "keywords": [],
+   "mode": "or",
+   "topics": [
+    {
+     "name": "Kraje: ZÚR, přeložka",
+     "keywords": [
+      "ZÚR",
+      "přeložka"
+     ],
+     "sources": [
+      "kraj_stc",
+      "kraj_ust"
+     ]
+    },
+    {
+     "name": "DESÚ a ŘSD: D8, D0",
+     "keywords": [
+      "D8",
+      "D0"
+     ],
+     "sources": [
+      "desu",
+      "rsd"
+     ]
+    },
+    {
+     "name": "Železnice a EIA: VRT, RS 1–5",
+     "keywords": [
+      "VRT",
+      "RS 1",
+      "RS 2",
+      "RS 3",
+      "RS 4",
+      "RS 5"
+     ],
+     "sources": [
+      "sz_zakazky",
+      "sz_deska",
+      "cenia_eia",
+      "cenia_sea"
+     ]
+    }
+   ]
   }
  },
  {
@@ -36,7 +66,8 @@
    "sources": null,
    "obce": [],
    "keywords": [],
-   "mode": "or"
+   "mode": "or",
+   "topics": []
   }
  }
 ]

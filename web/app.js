@@ -36,7 +36,7 @@
   const S = {
     meta: null, obce: [], obceByKod: new Map(), dupNames: new Set(), presets: [], site: {},
     months: {}, fulltext: {}, records: [],
-    f: { preset: "drinov", sources: null, obce: [], keywords: [], mode: "or", q: "", from: isoDaysAgo(30), to: "" },
+    f: { preset: "drinov", sources: null, obce: [], keywords: [], topics: [], mode: "or", q: "", from: isoDaysAgo(30), to: "" },
     shown: PAGE,
   };
 
@@ -74,7 +74,7 @@
       const res = await Promise.all(missing.map((m) => getJSON(`data/records/${m}.json`).catch(() => [])));
       missing.forEach((m, i) => (S.months[m] = res[i]));
     }
-    if (S.f.keywords.length) {
+    if (S.f.keywords.length || S.f.topics.length) {
       const ftMissing = months.filter((m) => !S.fulltext[m]);
       if (ftMissing.length) {
         const res = await Promise.all(ftMissing.map((m) => getJSON(`data/fulltext/${m}.json`).catch(() => ({}))));
@@ -85,11 +85,18 @@
   }
 
   // ---------- filtr ----------
+  // klíčová slova platná pro daný záznam: obecná + témata vázaná na jeho zdroj
+  function activeKeywords(rec) {
+    const kws = [...S.f.keywords];
+    for (const t of S.f.topics) if ((t.sources || []).includes(rec.source)) kws.push(...t.keywords);
+    return kws;
+  }
   function kwHits(rec) {
-    if (!S.f.keywords.length) return [];
+    const kws = activeKeywords(rec);
+    if (!kws.length) return [];
     const month = (rec.published || "").slice(0, 7);
     const hay = `${rec.title}\n${rec.category || ""}\n${(S.fulltext[month] || {})[rec.id] || rec.snippet || ""}`;
-    return S.f.keywords.filter((k) => kwRx(k).test(hay));
+    return [...new Set(kws)].filter((k) => kwRx(k).test(hay));
   }
 
   function fullText(rec) {
@@ -134,7 +141,7 @@
       const q = f.q.toLocaleLowerCase("cs");
       if (!`${rec.title} ${rec.ref || ""} ${rec.category || ""}`.toLocaleLowerCase("cs").includes(q)) return false;
     }
-    const wantObce = f.obce.length > 0, wantKw = f.keywords.length > 0;
+    const wantObce = f.obce.length > 0, wantKw = f.keywords.length > 0 || f.topics.length > 0;
     if (!wantObce && !wantKw) return true;
     const hitObec = wantObce && (rec.obce || []).some((k) => f.obce.includes(k));
     const hitKw = wantKw && kwHits(rec).length > 0;
@@ -151,6 +158,7 @@
       if (f.obce.length) p.set("obce", f.obce.join(","));
       if (f.keywords.length) p.set("kw", f.keywords.join("|"));
       if (f.mode !== "or") p.set("mode", f.mode);
+      if (f.topics.length) p.set("t", JSON.stringify(f.topics));
     }
     if (f.q) p.set("q", f.q);
     p.set("od", f.from || "");
@@ -168,6 +176,7 @@
       S.f.obce = p.get("obce") ? p.get("obce").split(",").map(Number) : [];
       S.f.keywords = p.get("kw") ? p.get("kw").split("|") : [];
       S.f.mode = p.get("mode") || "or";
+      try { S.f.topics = p.get("t") ? JSON.parse(p.get("t")) : []; } catch { S.f.topics = []; }
     }
     S.f.q = p.get("q") || "";
     if (p.has("od")) S.f.from = p.get("od");
@@ -182,6 +191,7 @@
     S.f.obce = [...(p.filter.obce || [])];
     S.f.keywords = [...(p.filter.keywords || [])];
     S.f.mode = p.filter.mode || "or";
+    S.f.topics = (p.filter.topics || []).map((t) => ({ ...t, keywords: [...t.keywords], sources: [...t.sources] }));
     if (rerender) update();
   }
   function markCustom() { S.f.preset = "vlastni"; }
@@ -212,7 +222,14 @@
       kc.append(el("span", { class: "chip" }, k,
         el("button", { type: "button", "aria-label": "Odebrat", onclick: () => { S.f.keywords = S.f.keywords.filter((x) => x !== k); markCustom(); update(); } }, "×")));
     }
-    $("#mode-sec").hidden = !(S.f.obce.length && S.f.keywords.length);
+    const tc = $("#topic-chips"); tc.replaceChildren();
+    const names = Object.fromEntries(S.meta.sources.map((s) => [s.id, s.name]));
+    S.f.topics.forEach((t, i) => {
+      tc.append(el("span", { class: "chip topic", title: "Hledá se jen ve zdrojích: " + t.sources.map((x) => names[x] || x).join(", ") },
+        t.keywords.join(", "), el("small", {}, ` – jen ${t.name ? t.name.split(":")[0] : "vybrané zdroje"}`),
+        el("button", { type: "button", "aria-label": "Odebrat", onclick: () => { S.f.topics = S.f.topics.filter((_, j) => j !== i); markCustom(); update(); } }, "×")));
+    });
+    $("#mode-sec").hidden = !(S.f.obce.length && (S.f.keywords.length || S.f.topics.length));
     document.querySelectorAll("input[name=mode]").forEach((r) => (r.checked = r.value === S.f.mode));
   }
 
@@ -345,7 +362,7 @@
       const entry = {
         id, name: String(fd.get("name")).trim(), frequency: fd.get("frequency"),
         created: new Date().toISOString().slice(0, 10),
-        filter: { sources: S.f.sources, obce: S.f.obce, keywords: S.f.keywords, mode: S.f.mode },
+        filter: { sources: S.f.sources, obce: S.f.obce, keywords: S.f.keywords, topics: S.f.topics, mode: S.f.mode },
         _obce_nazvy: S.f.obce.map((k) => (S.obceByKod.get(k) || {}).nazev).filter(Boolean),
         email,
       };

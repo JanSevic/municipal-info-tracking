@@ -168,3 +168,5 @@ dialog .actions { justify-content: flex-end; }
 }
 .results { min-width: 0; }
 .item h3, .item .docs a, .item .meta span { overflow-wrap: anywhere; }
+.chip.topic { background: var(--warn-soft); color: var(--warn); }
+.chip small { opacity: .8; }
