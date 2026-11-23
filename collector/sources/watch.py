@@ -20,7 +20,9 @@ FIRST_RUN_CAT = "vyhlášeno před začátkem sledování"
 
 def _soup(url):
     r = net.get(url)
-    return BeautifulSoup(r.text, "html.parser"), r.url
+    soup = BeautifulSoup(r.text, "html.parser")
+    base = soup.find("base", href=True)          # relativní odkazy se počítají od <base>
+    return soup, urljoin(r.url, base["href"]) if base else r.url
 
 
 def _main_text(soup):

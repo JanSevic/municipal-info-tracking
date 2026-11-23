@@ -40,8 +40,9 @@ Běží zdarma na GitHubu: sběr dat obstarává GitHub Actions, web GitHub Page
 | MMR – národní dotace | ✅ | nové programy a výzvy |
 | Národní sportovní agentura | ✅ | investiční i neinvestiční výzvy |
 | MV/HZS – dotace pro jednotky hasičů obcí | ✅ | |
-| SZIF (zemědělství, venkov) | 🔧 | web je chráněný proti robotům |
-| SFDI (chodníky, cyklostezky) | 🔧 | web odmítá automatický přístup (403) |
+| MAS Kralupsko – výzvy | ✅ | IROP, OP TAK a SZP (zemědělské a venkovské dotace pro území MAS) |
+| SZIF (zemědělství, venkov) | 🔧 | web technicky blokuje automatický přístup (ochrana F5); výzvy SZP pro území Dřínova pokrývá MAS Kralupsko |
+| SFDI (chodníky, cyklostezky) | 🔧 | server odmítá automatický přístup (403 podle pravidel serveru) |
 | ÚZSVM – nabídka majetku pro obce | ✅ | |
 
 Klíčová slova a oblasti GovRadaru (KD8) jsou přepsané v `config/govradar_kd8.json`.
