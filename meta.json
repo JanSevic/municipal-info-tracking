@@ -1,13 +1,15 @@
 {
- "last_run": "2026-11-24T13:00+01:00",
+ "last_run": "2026-11-25T11:52+01:00",
  "months": [
   "2016-06",
   "2017-06",
   "2018-05",
   "2018-10",
+  "2020-08",
   "2021-05",
   "2022-09",
   "2023-02",
+  "2023-10",
   "2024-02",
   "2024-05",
   "2024-08",
@@ -40,7 +42,7 @@
    "url": "https://espis.desu.gov.cz/eDeska/eDeskaAktualni.jsp",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -50,7 +52,7 @@
    "url": "https://portal.cenia.cz/eiasea/view/eia100_cr?lang=cs",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -70,8 +72,8 @@
    "url": "https://www.kr-ustecky.cz/uredni-deska-prehled",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-23T20:48+01:00",
-   "last_error": "2026-11-24T13:00+01:00: ConnectTimeout: HTTPSConnectionPool(host='www.kr-ustecky.cz', port=443): Max retries exceeded with url: /opendata-uredni-deska (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kr-ustecky.cz', port=443) at 0x742c85bf44a0>, 'Connection to www.kr-ustecky.cz timed out. (connect timeout=180)'))"
+   "last_ok": "2026-11-25T11:52+01:00",
+   "last_error": null
   },
   {
    "id": "sz_zakazky",
@@ -80,7 +82,7 @@
    "url": "https://zakazky.spravazeleznic.cz/contract_index.html?type=all&state=all",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -120,7 +122,7 @@
    "url": "https://portal.cenia.cz/eiasea/view/sea100_koncepce?lang=cs",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -130,7 +132,7 @@
    "url": "https://www.mestokralupy.cz/mestsky-urad/uredni-deska/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -150,7 +152,7 @@
    "url": "https://sfzp.gov.cz/dotace-a-pujcky/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -160,7 +162,7 @@
    "url": "https://mmr.gov.cz/cs/narodni-dotace",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -170,7 +172,7 @@
    "url": "https://nabidkamajetku.gov.cz/Home/OffersUsc?ListType=offer-usc",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -180,7 +182,7 @@
    "url": "https://opzp.cz/nabidka-dotaci/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -190,7 +192,7 @@
    "url": "https://www.narodniprogramzp.cz/nabidka-dotaci/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -200,7 +202,7 @@
    "url": "https://irop.gov.cz/cs/vyzvy-2021-2027",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -210,7 +212,7 @@
    "url": "https://nsa.gov.cz/dotace-investicni/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -220,7 +222,7 @@
    "url": "https://hzscr.gov.cz/dotace",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
@@ -230,7 +232,7 @@
    "url": "https://www.maskralupsko.cz/vyzvy/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-24T13:00+01:00",
+   "last_ok": "2026-11-25T11:52+01:00",
    "last_error": null
   },
   {
