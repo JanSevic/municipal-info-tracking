@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-26T11:28+01:00",
+ "last_run": "2026-11-27T11:32+01:00",
  "months": [
   "2016-06",
   "2017-06",
@@ -24,6 +24,7 @@
   "2025-11",
   "2025-12",
   "2026-01",
+  "2026-02",
   "2026-03",
   "2026-04",
   "2026-05",
@@ -42,7 +43,7 @@
    "url": "https://espis.desu.gov.cz/eDeska/eDeskaAktualni.jsp",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -52,7 +53,7 @@
    "url": "https://portal.cenia.cz/eiasea/view/eia100_cr?lang=cs",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -72,7 +73,7 @@
    "url": "https://www.kr-ustecky.cz/uredni-deska-prehled",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -82,7 +83,7 @@
    "url": "https://zakazky.spravazeleznic.cz/contract_index.html?type=all&state=all",
    "govradar": true,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -122,7 +123,7 @@
    "url": "https://portal.cenia.cz/eiasea/view/sea100_koncepce?lang=cs",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -132,7 +133,7 @@
    "url": "https://www.mestokralupy.cz/mestsky-urad/uredni-deska/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -152,7 +153,7 @@
    "url": "https://sfzp.gov.cz/dotace-a-pujcky/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -162,7 +163,7 @@
    "url": "https://mmr.gov.cz/cs/narodni-dotace",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -172,7 +173,7 @@
    "url": "https://nabidkamajetku.gov.cz/Home/OffersUsc?ListType=offer-usc",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -182,7 +183,7 @@
    "url": "https://opzp.cz/nabidka-dotaci/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -192,7 +193,7 @@
    "url": "https://www.narodniprogramzp.cz/nabidka-dotaci/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -202,7 +203,7 @@
    "url": "https://irop.gov.cz/cs/vyzvy-2021-2027",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -212,7 +213,7 @@
    "url": "https://nsa.gov.cz/dotace-investicni/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -222,7 +223,7 @@
    "url": "https://hzscr.gov.cz/dotace",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
@@ -232,7 +233,7 @@
    "url": "https://www.maskralupsko.cz/vyzvy/",
    "govradar": false,
    "status": "ok",
-   "last_ok": "2026-11-26T11:28+01:00",
+   "last_ok": "2026-11-27T11:32+01:00",
    "last_error": null
   },
   {
