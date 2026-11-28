@@ -81,12 +81,19 @@
     "desu:11671",
     "desu:11672",
     "desu:11673",
-    "desu:11674"
+    "desu:11674",
+    "desu:11675",
+    "desu:11676",
+    "desu:11677",
+    "desu:11678",
+    "desu:11679",
+    "desu:11680",
+    "desu:11681"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
-   "last_new": 2
+   "since": "2026-11-25",
+   "last_new": 7
   },
   "cenia_eia": {
    "known": [
@@ -122,6 +129,7 @@
     "cenia_eia:MSK2490:Záznam založen:2026-11-19",
     "cenia_eia:MSK2491:Oznámení:2026-11-26",
     "cenia_eia:MZP230:Prodloužení platnosti stanoviska:2026-11-19",
+    "cenia_eia:MZP469:Prodloužení platnosti stanoviska:2026-11-27",
     "cenia_eia:OLK1064:Ukončeno z jiných důvodů:2026-11-06",
     "cenia_eia:OLK1065:Nepodléhá dalšímu posuzování:2026-11-06",
     "cenia_eia:OLK1066:Oznámení:2026-11-09",
@@ -131,6 +139,7 @@
     "cenia_eia:OLK1069:Oznámení:2026-11-27",
     "cenia_eia:OLK1069:Záznam založen:2026-11-26",
     "cenia_eia:OV3073:Prodloužení platnosti stanoviska:2026-11-02",
+    "cenia_eia:OV4238:Ukončeno z jiných důvodů:2026-11-27",
     "cenia_eia:OV6227:Prodloužení platnosti stanoviska:2026-10-26",
     "cenia_eia:OV6252:Prodloužení platnosti stanoviska:2026-11-16",
     "cenia_eia:OV6291:Veřejné projednání:2026-11-20",
@@ -184,10 +193,10 @@
     "cenia_eia:ZLK1050:Oznámení:2026-10-27",
     "cenia_eia:ZLK536:Prodloužení platnosti stanoviska:2026-11-09"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
-   "last_new": 4
+   "since": "2026-11-25",
+   "last_new": 2
   },
   "kraj_stc": {
    "known": []
@@ -468,9 +477,9 @@
     "kraj_ust:https://www.kr-ustecky.cz/4712416",
     "kraj_ust:https://www.kr-ustecky.cz/4713690"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "sz_zakazky": {
@@ -490,6 +499,7 @@
     "sz_zakazky:VZ-16401",
     "sz_zakazky:VZ-16474",
     "sz_zakazky:VZ-16603",
+    "sz_zakazky:VZ-16724",
     "sz_zakazky:VZ-16810",
     "sz_zakazky:VZ-16825",
     "sz_zakazky:VZ-16856",
@@ -533,6 +543,7 @@
     "sz_zakazky:VZ-18031",
     "sz_zakazky:VZ-18033",
     "sz_zakazky:VZ-18039",
+    "sz_zakazky:VZ-18058",
     "sz_zakazky:VZ-18061",
     "sz_zakazky:VZ-18065",
     "sz_zakazky:VZ-18073",
@@ -649,13 +660,16 @@
     "sz_zakazky:VZ-18484",
     "sz_zakazky:VZ-18486",
     "sz_zakazky:VZ-18487",
+    "sz_zakazky:VZ-18488",
+    "sz_zakazky:VZ-18491",
     "sz_zakazky:VZ-2590",
-    "sz_zakazky:VZ-7909"
+    "sz_zakazky:VZ-7909",
+    "sz_zakazky:VZ-9347"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
-   "last_new": 11
+   "since": "2026-11-25",
+   "last_new": 5
   },
   "rsd": {
    "known": []
@@ -676,9 +690,9 @@
     "cenia_sea:ULK033K:Oznámení:2026-11-10",
     "cenia_sea:ZLK026K:Nepodléhá dalšímu posuzování:2026-11-11"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "kralupy": {
@@ -769,6 +783,7 @@
     "kralupy:13595",
     "kralupy:13596",
     "kralupy:13597",
+    "kralupy:13598",
     "kralupy:6549",
     "kralupy:6550",
     "kralupy:7070",
@@ -778,10 +793,10 @@
     "kralupy:9618",
     "kralupy:odt_kralupy_int.json"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
-   "last_new": 4
+   "since": "2026-11-25",
+   "last_new": 1
   },
   "spu": {
    "known": []
@@ -794,9 +809,9 @@
     "dotace_sfzp:22888",
     "dotace_sfzp:23008"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "dotace_mmr": {
@@ -913,9 +928,9 @@
     "dotace_mmr:/narodni-dotace/zivel-pomoc-v-nouzi-(zivel-4)-(1)/zivel-4-pomoc-v-nouzi-nouzove-prostory-(vyzva-2026",
     "dotace_mmr:/narodni-dotace/zivel-pomoc-v-nouzi-(zivel-4)-(1)/zivel-pomoc-v-nouzi-zivel-4"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "uzsvm": {
@@ -1632,6 +1647,7 @@
     "uzsvm:167338",
     "uzsvm:167339",
     "uzsvm:167340",
+    "uzsvm:167350",
     "uzsvm:167355",
     "uzsvm:167356",
     "uzsvm:167359",
@@ -1722,6 +1738,7 @@
     "uzsvm:167901",
     "uzsvm:167902",
     "uzsvm:167915",
+    "uzsvm:167925",
     "uzsvm:167931",
     "uzsvm:167932",
     "uzsvm:167936",
@@ -1747,6 +1764,7 @@
     "uzsvm:168085",
     "uzsvm:168086",
     "uzsvm:168089",
+    "uzsvm:168093",
     "uzsvm:168094",
     "uzsvm:168095",
     "uzsvm:168096",
@@ -1754,11 +1772,19 @@
     "uzsvm:168102",
     "uzsvm:168118",
     "uzsvm:168120",
+    "uzsvm:168122",
+    "uzsvm:168124",
+    "uzsvm:168129",
+    "uzsvm:168130",
+    "uzsvm:168132",
+    "uzsvm:168133",
+    "uzsvm:168136",
     "uzsvm:168155",
     "uzsvm:168162",
     "uzsvm:168168",
     "uzsvm:168176",
     "uzsvm:168188",
+    "uzsvm:168189",
     "uzsvm:168201",
     "uzsvm:168202",
     "uzsvm:168203",
@@ -1866,6 +1892,34 @@
     "uzsvm:168794",
     "uzsvm:168800",
     "uzsvm:168802",
+    "uzsvm:168821",
+    "uzsvm:168823",
+    "uzsvm:168824",
+    "uzsvm:168832",
+    "uzsvm:168833",
+    "uzsvm:168835",
+    "uzsvm:168837",
+    "uzsvm:168839",
+    "uzsvm:168861",
+    "uzsvm:168862",
+    "uzsvm:168863",
+    "uzsvm:168864",
+    "uzsvm:168865",
+    "uzsvm:168866",
+    "uzsvm:168867",
+    "uzsvm:168868",
+    "uzsvm:168869",
+    "uzsvm:168870",
+    "uzsvm:168871",
+    "uzsvm:168872",
+    "uzsvm:168873",
+    "uzsvm:168874",
+    "uzsvm:168875",
+    "uzsvm:168876",
+    "uzsvm:168877",
+    "uzsvm:168878",
+    "uzsvm:168879",
+    "uzsvm:168880",
     "uzsvm:23493",
     "uzsvm:25151",
     "uzsvm:26825",
@@ -1906,10 +1960,10 @@
     "uzsvm:89905",
     "uzsvm:90323"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
-   "last_new": 34
+   "since": "2026-11-25",
+   "last_new": 39
   },
   "dotace_opzp": {
    "known": [
@@ -1919,9 +1973,9 @@
     "dotace_opzp:https://opzp.cz/dotace/109-vyzva/",
     "dotace_opzp:https://opzp.cz/dotace/79-vyzva/"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "dotace_npzp": {
@@ -1937,9 +1991,9 @@
     "dotace_npzp:https://www.narodniprogramzp.cz/nabidka-dotaci/detail-vyzvy/?id=181",
     "dotace_npzp:https://www.narodniprogramzp.cz/nabidka-dotaci/detail-vyzvy/?id=182"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "dotace_irop": {
@@ -1955,9 +2009,9 @@
     "dotace_irop:https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/122vyzvaIROP",
     "dotace_irop:https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/85vyzvaIROP"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "dotace_nsa": {
@@ -1980,9 +2034,9 @@
     "dotace_nsa:https://nsa.gov.cz/dotace/vyzva-7-2026-vyznamne-sportovni-akce-mimoradne-dulezitosti-2026/",
     "dotace_nsa:https://nsa.gov.cz/dotace/vyzva-8-2026-muj-klub-2026/"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "dotace_hzs": {
@@ -1994,9 +2048,9 @@
     "dotace_hzs:https://hzscr.gov.cz/vydaje-za-op-za-uskutecneny-zasah-jsdho-mimo-uzemni-obvod-jejiho-zrizovatele-na-vybaveni-opravy",
     "dotace_hzs:https://hzscr.gov.cz/zabezpeceni-akceschopnosti-jsdh-vybranych-obci"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   },
   "dotace_szif": {
@@ -2016,12 +2070,12 @@
     "dotace_mas:https://www.maskralupsko.cz/vyzvy/3.-vyzva-op-tak/",
     "dotace_mas:https://www.maskralupsko.cz/vyzvy/4.-vyzva-op-tak/"
    ],
-   "last_ok": "2026-11-27T11:32+01:00",
+   "last_ok": "2026-11-28T10:48+01:00",
    "last_error": null,
-   "since": "2026-11-24",
+   "since": "2026-11-25",
    "last_new": 0
   }
  },
  "subs": {},
- "last_run": "2026-11-27T11:32+01:00"
+ "last_run": "2026-11-28T10:48+01:00"
 }
